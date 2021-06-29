@@ -16,6 +16,7 @@ url = f"http://realtime.adelaidemetro.com.au/sirism/SiriStopMonitoring.svc/json/
 
 import json
 
+
 # with open(f'{stop_id}_sample.json', 'w') as fp:
 #     json.dump(data, fp)
 

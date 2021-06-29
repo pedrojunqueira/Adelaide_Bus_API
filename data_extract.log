@@ -1,0 +1,2540 @@
+2021-06-29 18:06:32,264:INFO:fetched data for tab: 1
+2021-06-29 18:06:32,717:INFO:fetched data for tab: 2
+2021-06-29 18:06:33,273:INFO:fetched data for tab: 3
+2021-06-29 18:06:33,802:INFO:fetched data for tab: 4
+2021-06-29 18:06:34,204:INFO:fetched data for tab: 5
+2021-06-29 18:06:34,716:INFO:fetched data for tab: 6
+2021-06-29 18:06:35,235:INFO:fetched data for tab: 7
+2021-06-29 18:06:35,764:INFO:fetched data for tab: 8
+2021-06-29 18:06:36,181:INFO:fetched data for tab: 9
+2021-06-29 18:06:36,670:INFO:fetched data for tab: ABCD
+2021-06-29 18:06:37,078:INFO:fetched data for tab: EFGH
+2021-06-29 18:06:37,352:INFO:fetched data for tab: IJKL
+2021-06-29 18:06:37,667:INFO:fetched data for tab: MNOP
+2021-06-29 18:06:37,982:INFO:fetched data for tab: QRST
+2021-06-29 18:06:38,327:INFO:fetched data for tab: UVWXYZ
+2021-06-29 18:06:38,834:INFO:fetched data for 100 on direction To 
+Arndale Centre Interchange
+2021-06-29 18:06:38,839:INFO:fetched data for 100 on direction To 
+Glen Osmond
+2021-06-29 18:06:39,387:INFO:fetched data for 100B on direction To 
+Brooklyn Park (from Urrbrae)
+2021-06-29 18:06:39,390:INFO:fetched data for 100B on direction To 
+Brooklyn Park (from Arndale)
+2021-06-29 18:06:39,769:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 100C
+2021-06-29 18:06:39,769:INFO:fetched data for 100C on direction To 
+
+2021-06-29 18:06:39,772:INFO:fetched data for 100C on direction To 
+Urrbrae Argriculture High School
+2021-06-29 18:06:40,197:INFO:fetched data for 100N on direction To 
+Marleston
+2021-06-29 18:06:40,199:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 100N
+2021-06-29 18:06:40,199:INFO:fetched data for 100N on direction To 
+
+2021-06-29 18:06:40,637:INFO:fetched data for 100P on direction To 
+Plympton (from Glen Osmond)
+2021-06-29 18:06:40,640:INFO:fetched data for 100P on direction To 
+Plympton (from Arndale Centre Int.)
+2021-06-29 18:06:41,092:INFO:fetched data for 101 on direction To 
+Arndale Centre Interchange
+2021-06-29 18:06:41,096:INFO:fetched data for 101 on direction To 
+Flinders University
+2021-06-29 18:06:41,474:INFO:fetched data for 106 on direction To 
+City
+2021-06-29 18:06:41,477:INFO:fetched data for 106 on direction To 
+Magill
+2021-06-29 18:06:41,909:INFO:fetched data for 110 on direction To 
+City
+2021-06-29 18:06:41,912:INFO:fetched data for 110 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:06:42,300:INFO:fetched data for 112 on direction To 
+City
+2021-06-29 18:06:42,304:INFO:fetched data for 112 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:06:42,716:INFO:fetched data for 115 on direction To 
+City
+2021-06-29 18:06:42,719:INFO:fetched data for 115 on direction To 
+West Lakes Interchange
+2021-06-29 18:06:43,227:INFO:fetched data for 117 on direction To 
+City
+2021-06-29 18:06:43,232:INFO:fetched data for 117 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:06:43,756:INFO:fetched data for 118 on direction To 
+City
+2021-06-29 18:06:43,759:INFO:fetched data for 118 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:06:44,459:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 140
+2021-06-29 18:06:44,459:INFO:fetched data for 140 on direction To 
+
+2021-06-29 18:06:44,461:INFO:fetched data for 140 on direction To 
+Glen Osmond
+2021-06-29 18:06:44,963:INFO:fetched data for 141 on direction To 
+City
+2021-06-29 18:06:44,966:INFO:fetched data for 141 on direction To 
+Stonyfell
+2021-06-29 18:06:45,486:INFO:fetched data for 142 on direction To 
+City
+2021-06-29 18:06:45,489:INFO:fetched data for 142 on direction To 
+Burnside
+2021-06-29 18:06:45,893:INFO:fetched data for 144 on direction To 
+City
+2021-06-29 18:06:45,896:INFO:fetched data for 144 on direction To 
+Toorak Gardens & Glen Osmond
+2021-06-29 18:06:46,396:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 144G
+2021-06-29 18:06:46,396:INFO:fetched data for 144G on direction To 
+
+2021-06-29 18:06:46,397:INFO:fetched data for 144G on direction To 
+Toorak Gardens
+2021-06-29 18:06:46,818:INFO:fetched data for 147 on direction To 
+City
+2021-06-29 18:06:46,821:INFO:fetched data for 147 on direction To 
+Beaumont
+2021-06-29 18:06:47,343:INFO:fetched data for 150 on direction To 
+City
+2021-06-29 18:06:47,348:INFO:fetched data for 150 on direction To 
+Osborne
+2021-06-29 18:06:47,818:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 150B
+2021-06-29 18:06:47,818:INFO:fetched data for 150B on direction To 
+
+2021-06-29 18:06:47,821:INFO:fetched data for 150B on direction To 
+Largs Bay
+2021-06-29 18:06:48,337:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 150P
+2021-06-29 18:06:48,337:INFO:fetched data for 150P on direction To 
+
+2021-06-29 18:06:48,340:INFO:fetched data for 150P on direction To 
+Port Adelaide Interchange
+2021-06-29 18:06:48,854:INFO:fetched data for 155 on direction To 
+City
+2021-06-29 18:06:48,858:INFO:fetched data for 155 on direction To 
+West Lakes Interchange
+2021-06-29 18:06:49,259:INFO:fetched data for 157 on direction To 
+City
+2021-06-29 18:06:49,264:INFO:fetched data for 157 on direction To 
+Largs Bay
+2021-06-29 18:06:49,849:INFO:fetched data for 157X on direction To 
+City
+2021-06-29 18:06:49,852:INFO:fetched data for 157X on direction To 
+Largs Bay
+2021-06-29 18:06:49,998:INFO:fetched data for 163 on direction To 
+West Beach
+2021-06-29 18:06:50,002:INFO:fetched data for 163 on direction To 
+City
+2021-06-29 18:06:50,502:INFO:fetched data for 167 on direction To 
+City
+2021-06-29 18:06:50,505:INFO:fetched data for 167 on direction To 
+Glenelg Interchange
+2021-06-29 18:06:51,011:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 167C
+2021-06-29 18:06:51,011:INFO:fetched data for 167C on direction To 
+
+2021-06-29 18:06:51,014:INFO:fetched data for 167C on direction To 
+Camden Park
+2021-06-29 18:06:51,516:INFO:fetched data for 168 on direction To 
+City
+2021-06-29 18:06:51,521:INFO:fetched data for 168 on direction To 
+Glenelg Interchange
+2021-06-29 18:06:52,033:INFO:fetched data for 170 on direction To 
+City
+2021-06-29 18:06:52,038:INFO:fetched data for 170 on direction To 
+Urrbrae
+2021-06-29 18:06:52,566:INFO:fetched data for 171 on direction To 
+City
+2021-06-29 18:06:52,569:INFO:fetched data for 171 on direction To 
+Mitcham Square
+2021-06-29 18:06:52,875:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 171A
+2021-06-29 18:06:52,875:INFO:fetched data for 171A on direction To 
+
+2021-06-29 18:06:52,877:INFO:fetched data for 171A on direction To 
+Highgate
+2021-06-29 18:06:53,366:INFO:fetched data for 172 on direction To 
+City
+2021-06-29 18:06:53,369:INFO:fetched data for 172 on direction To 
+Kingswood
+2021-06-29 18:06:53,762:INFO:fetched data for 173 on direction To 
+City
+2021-06-29 18:06:53,764:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 173
+2021-06-29 18:06:53,764:INFO:fetched data for 173 on direction To 
+
+2021-06-29 18:06:54,277:INFO:fetched data for 174 on direction To 
+City
+2021-06-29 18:06:54,281:INFO:fetched data for 174 on direction To 
+Paradise Interchange
+2021-06-29 18:06:54,902:INFO:fetched data for 176 on direction To 
+City
+2021-06-29 18:06:54,907:INFO:fetched data for 176 on direction To 
+Athelstone
+2021-06-29 18:06:55,409:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 176G
+2021-06-29 18:06:55,409:INFO:fetched data for 176G on direction To 
+
+2021-06-29 18:06:55,412:INFO:fetched data for 176G on direction To 
+Newton
+2021-06-29 18:06:55,840:INFO:fetched data for 178 on direction To 
+City
+2021-06-29 18:06:55,846:INFO:fetched data for 178 on direction To 
+Paradise Interchange
+2021-06-29 18:06:56,523:INFO:fetched data for 178A on direction To 
+Athelstone
+2021-06-29 18:06:56,525:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 178A
+2021-06-29 18:06:56,525:INFO:fetched data for 178A on direction To 
+
+2021-06-29 18:06:56,957:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 178M
+2021-06-29 18:06:56,957:INFO:fetched data for 178M on direction To 
+
+2021-06-29 18:06:56,960:INFO:fetched data for 178M on direction To 
+Athelstone
+2021-06-29 18:06:57,449:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 178S
+2021-06-29 18:06:57,449:INFO:fetched data for 178S on direction To 
+
+2021-06-29 18:06:57,451:INFO:fetched data for 178S on direction To 
+Newton
+2021-06-29 18:06:57,919:INFO:fetched data for 178X on direction To 
+City
+2021-06-29 18:06:57,927:INFO:fetched data for 178X on direction To 
+Paradise Interchange
+2021-06-29 18:06:58,497:INFO:fetched data for 190 on direction To 
+City
+2021-06-29 18:06:58,503:INFO:fetched data for 190 on direction To 
+Glenelg Interchange
+2021-06-29 18:06:59,010:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 190B
+2021-06-29 18:06:59,011:INFO:fetched data for 190B on direction To 
+
+2021-06-29 18:06:59,014:INFO:fetched data for 190B on direction To 
+Mitcham Square
+2021-06-29 18:06:59,716:INFO:fetched data for 195 on direction To 
+City
+2021-06-29 18:06:59,725:INFO:fetched data for 195 on direction To 
+Blackwood Station
+2021-06-29 18:07:00,235:INFO:fetched data for 195F on direction To 
+City
+2021-06-29 18:07:00,241:INFO:fetched data for 195F on direction To 
+Blackwood Station
+2021-06-29 18:07:00,671:INFO:fetched data for 196 on direction To 
+City
+2021-06-29 18:07:00,676:INFO:fetched data for 196 on direction To 
+Blackwood Station
+2021-06-29 18:07:01,166:INFO:fetched data for 196F on direction To 
+City
+2021-06-29 18:07:01,171:INFO:fetched data for 196F on direction To 
+Blackwood Station
+2021-06-29 18:07:01,650:INFO:fetched data for 197X on direction To 
+City
+2021-06-29 18:07:01,651:INFO:fetched data for 197X on direction To 
+Coromandel Station
+2021-06-29 18:07:02,181:INFO:fetched data for 200 on direction To 
+City
+2021-06-29 18:07:02,188:INFO:fetched data for 200 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:02,695:INFO:fetched data for 200B on direction To 
+City
+2021-06-29 18:07:02,701:INFO:fetched data for 200B on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:03,196:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 200C
+2021-06-29 18:07:03,196:INFO:fetched data for 200C on direction To 
+
+2021-06-29 18:07:03,199:INFO:fetched data for 200C on direction To 
+Clapham
+2021-06-29 18:07:03,848:INFO:fetched data for 202 on direction To 
+City
+2021-06-29 18:07:03,854:INFO:fetched data for 202 on direction To 
+Ingle Farm
+2021-06-29 18:07:04,525:INFO:fetched data for 202F on direction To 
+City
+2021-06-29 18:07:04,529:INFO:fetched data for 202F on direction To 
+Ingle Farm
+2021-06-29 18:07:05,054:INFO:fetched data for 203 on direction To 
+City
+2021-06-29 18:07:05,060:INFO:fetched data for 203 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:07:05,420:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 203B
+2021-06-29 18:07:05,421:INFO:fetched data for 203B on direction To 
+
+2021-06-29 18:07:05,424:INFO:fetched data for 203B on direction To 
+Ingle Farm
+2021-06-29 18:07:05,920:INFO:fetched data for 203F on direction To 
+City
+2021-06-29 18:07:05,925:INFO:fetched data for 203F on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:07:06,368:INFO:fetched data for 206 on direction To 
+City
+2021-06-29 18:07:06,374:INFO:fetched data for 206 on direction To 
+Northgate
+2021-06-29 18:07:06,769:INFO:fetched data for 208 on direction To 
+City
+2021-06-29 18:07:06,774:INFO:fetched data for 208 on direction To 
+Paradise Interchange
+2021-06-29 18:07:07,172:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 208B
+2021-06-29 18:07:07,173:INFO:fetched data for 208B on direction To 
+
+2021-06-29 18:07:07,177:INFO:fetched data for 208B on direction To 
+Broadview
+2021-06-29 18:07:07,582:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 208N
+2021-06-29 18:07:07,583:INFO:fetched data for 208N on direction To 
+
+2021-06-29 18:07:07,585:INFO:fetched data for 208N on direction To 
+Northgate
+2021-06-29 18:07:08,046:INFO:fetched data for 209F on direction To 
+City
+2021-06-29 18:07:08,055:INFO:fetched data for 209F on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:07:08,529:INFO:fetched data for 222 on direction To 
+City
+2021-06-29 18:07:08,533:INFO:fetched data for 222 on direction To 
+Mawson Interchange
+2021-06-29 18:07:08,899:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 222R
+2021-06-29 18:07:08,899:INFO:fetched data for 222R on direction To 
+
+2021-06-29 18:07:08,901:INFO:fetched data for 222R on direction To 
+Mawson Interchange
+2021-06-29 18:07:09,303:INFO:fetched data for 224 on direction To 
+City
+2021-06-29 18:07:09,310:INFO:fetched data for 224 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:09,870:INFO:fetched data for 224F on direction To 
+City
+2021-06-29 18:07:09,878:INFO:fetched data for 224F on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:10,349:INFO:fetched data for 224M on direction To 
+Mawson Interchange
+2021-06-29 18:07:10,351:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 224M
+2021-06-29 18:07:10,351:INFO:fetched data for 224M on direction To 
+
+2021-06-29 18:07:10,772:INFO:fetched data for 224X on direction To 
+City
+2021-06-29 18:07:10,777:INFO:fetched data for 224X on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:11,195:INFO:fetched data for 225 on direction To 
+Gepps Cross
+2021-06-29 18:07:11,200:INFO:fetched data for 225 on direction To 
+Salisbury Interchange
+2021-06-29 18:07:11,706:INFO:fetched data for 225F on direction To 
+City
+2021-06-29 18:07:11,712:INFO:fetched data for 225F on direction To 
+Salisbury Interchange
+2021-06-29 18:07:12,094:INFO:fetched data for 225M on direction To 
+Mawson Interchange
+2021-06-29 18:07:12,095:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 225M
+2021-06-29 18:07:12,095:INFO:fetched data for 225M on direction To 
+
+2021-06-29 18:07:12,620:INFO:fetched data for 225X on direction To 
+City
+2021-06-29 18:07:12,624:INFO:fetched data for 225X on direction To 
+Salisbury Interchange
+2021-06-29 18:07:13,034:INFO:fetched data for 228 on direction To 
+City
+2021-06-29 18:07:13,041:INFO:fetched data for 228 on direction To 
+Smithfield Interchange
+2021-06-29 18:07:13,576:INFO:fetched data for 228F on direction To 
+City
+2021-06-29 18:07:13,583:INFO:fetched data for 228F on direction To 
+Smithfield Interchange
+2021-06-29 18:07:14,057:INFO:fetched data for 228X on direction To 
+City
+2021-06-29 18:07:14,062:INFO:fetched data for 228X on direction To 
+Smithfield Interchange
+2021-06-29 18:07:14,558:INFO:fetched data for 229 on direction To 
+Gepps Cross
+2021-06-29 18:07:14,561:INFO:fetched data for 229 on direction To 
+Para Hills
+2021-06-29 18:07:15,214:INFO:fetched data for 229F on direction To 
+City
+2021-06-29 18:07:15,219:INFO:fetched data for 229F on direction To 
+Para Hills
+2021-06-29 18:07:15,797:INFO:fetched data for 229X on direction To 
+City
+2021-06-29 18:07:15,801:INFO:fetched data for 229X on direction To 
+Para Hills
+2021-06-29 18:07:16,303:INFO:fetched data for 230 on direction To 
+City
+2021-06-29 18:07:16,308:INFO:fetched data for 230 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:07:16,823:INFO:fetched data for 232 on direction To 
+City
+2021-06-29 18:07:16,828:INFO:fetched data for 232 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:07:17,318:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 232R
+2021-06-29 18:07:17,318:INFO:fetched data for 232R on direction To 
+
+2021-06-29 18:07:17,320:INFO:fetched data for 232R on direction To 
+Rosewater
+2021-06-29 18:07:17,735:INFO:fetched data for 235 on direction To 
+City
+2021-06-29 18:07:17,738:INFO:fetched data for 235 on direction To 
+Kilburn
+2021-06-29 18:07:18,184:INFO:fetched data for 238 on direction To 
+City
+2021-06-29 18:07:18,188:INFO:fetched data for 238 on direction To 
+UniSA Mawson Lakes Campus
+2021-06-29 18:07:18,671:INFO:fetched data for 239 on direction To 
+City
+2021-06-29 18:07:18,675:INFO:fetched data for 239 on direction To 
+Arndale Centre Interchange
+2021-06-29 18:07:19,185:INFO:fetched data for 241 on direction To 
+City
+2021-06-29 18:07:19,190:INFO:fetched data for 241 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:19,785:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 241A
+2021-06-29 18:07:19,785:INFO:fetched data for 241A on direction To 
+
+2021-06-29 18:07:19,789:INFO:fetched data for 241A on direction To 
+Oaklands Park
+2021-06-29 18:07:20,191:INFO:fetched data for 245 on direction To 
+City
+2021-06-29 18:07:20,195:INFO:fetched data for 245 on direction To 
+Warradale
+2021-06-29 18:07:20,651:INFO:fetched data for 248 on direction To 
+City
+2021-06-29 18:07:20,656:INFO:fetched data for 248 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:20,984:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 248A
+2021-06-29 18:07:20,984:INFO:fetched data for 248A on direction To 
+
+2021-06-29 18:07:20,987:INFO:fetched data for 248A on direction To 
+Oaklands Park
+2021-06-29 18:07:21,433:INFO:fetched data for 248F on direction To 
+City
+2021-06-29 18:07:21,437:INFO:fetched data for 248F on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:21,906:INFO:fetched data for 251 on direction To 
+City
+2021-06-29 18:07:21,910:INFO:fetched data for 251 on direction To 
+Mansfield Park
+2021-06-29 18:07:22,424:INFO:fetched data for 251A on direction To 
+Arndale Centre Interchange
+2021-06-29 18:07:22,425:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 251A
+2021-06-29 18:07:22,425:INFO:fetched data for 251A on direction To 
+
+2021-06-29 18:07:22,822:INFO:fetched data for 252 on direction To 
+City
+2021-06-29 18:07:22,828:INFO:fetched data for 252 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:07:23,267:INFO:fetched data for 252A on direction To 
+Arndale Centre Interchange
+2021-06-29 18:07:23,268:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 252A
+2021-06-29 18:07:23,268:INFO:fetched data for 252A on direction To 
+
+2021-06-29 18:07:23,674:INFO:fetched data for 253 on direction To 
+City
+2021-06-29 18:07:23,676:INFO:fetched data for 253 on direction To 
+Mansfield Park
+2021-06-29 18:07:24,173:INFO:fetched data for 253X on direction To 
+City
+2021-06-29 18:07:24,176:INFO:fetched data for 253X on direction To 
+Mansfield Park
+2021-06-29 18:07:24,594:INFO:fetched data for 254 on direction To 
+City
+2021-06-29 18:07:24,599:INFO:fetched data for 254 on direction To 
+Port Adelaide Interchange
+2021-06-29 18:07:24,910:INFO:fetched data for 254X on direction To 
+City
+2021-06-29 18:07:24,912:INFO:fetched data for 254X on direction To 
+Port Adelaide Interchange
+2021-06-29 18:07:25,286:INFO:fetched data for 262 on direction To 
+City
+2021-06-29 18:07:25,288:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 262
+2021-06-29 18:07:25,294:INFO:fetched data for 262 on direction To 
+
+2021-06-29 18:07:25,837:INFO:fetched data for 263 on direction To 
+City
+2021-06-29 18:07:25,841:INFO:fetched data for 263 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:26,340:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 263A
+2021-06-29 18:07:26,341:INFO:fetched data for 263A on direction To 
+
+2021-06-29 18:07:26,343:INFO:fetched data for 263A on direction To 
+Warradale
+2021-06-29 18:07:26,741:INFO:fetched data for 265 on direction To 
+City
+2021-06-29 18:07:26,747:INFO:fetched data for 265 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:27,112:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 265W
+2021-06-29 18:07:27,112:INFO:fetched data for 265W on direction To 
+
+2021-06-29 18:07:27,115:INFO:fetched data for 265W on direction To 
+Somerton Park
+2021-06-29 18:07:27,579:INFO:fetched data for 271 on direction To 
+City
+2021-06-29 18:07:27,584:INFO:fetched data for 271 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:07:28,006:INFO:fetched data for 273 on direction To 
+City
+2021-06-29 18:07:28,009:INFO:fetched data for 273 on direction To 
+Paradise Interchange
+2021-06-29 18:07:28,376:INFO:fetched data for 281 on direction To 
+City
+2021-06-29 18:07:28,379:INFO:fetched data for 281 on direction To 
+Paradise Interchange
+2021-06-29 18:07:28,893:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 281K
+2021-06-29 18:07:28,893:INFO:fetched data for 281K on direction To 
+
+2021-06-29 18:07:28,895:INFO:fetched data for 281K on direction To 
+Klemzig
+2021-06-29 18:07:29,401:INFO:fetched data for 286 on direction To 
+City
+2021-06-29 18:07:29,406:INFO:fetched data for 286 on direction To 
+Henley Beach
+2021-06-29 18:07:29,914:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 286A
+2021-06-29 18:07:29,914:INFO:fetched data for 286A on direction To 
+
+2021-06-29 18:07:29,916:INFO:fetched data for 286A on direction To 
+Underdale
+2021-06-29 18:07:30,358:INFO:fetched data for 287 on direction To 
+City
+2021-06-29 18:07:30,361:INFO:fetched data for 287 on direction To 
+Henley Beach
+2021-06-29 18:07:30,856:INFO:fetched data for 288 on direction To 
+City
+2021-06-29 18:07:30,861:INFO:fetched data for 288 on direction To 
+West Lakes Interchange
+2021-06-29 18:07:31,323:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 288S
+2021-06-29 18:07:31,323:INFO:fetched data for 288S on direction To 
+
+2021-06-29 18:07:31,325:INFO:fetched data for 288S on direction To 
+Seaton
+2021-06-29 18:07:31,833:INFO:fetched data for 300 on direction To 
+Arndale Centre Interchange (Clockwise)
+2021-06-29 18:07:31,842:INFO:fetched data for 300 on direction To 
+Arndale Centre Interchange (Anti-Clockwise)
+2021-06-29 18:07:32,281:INFO:fetched data for 300C on direction To 
+Urrbrae
+2021-06-29 18:07:32,283:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 300C
+2021-06-29 18:07:32,283:INFO:fetched data for 300C on direction To 
+
+2021-06-29 18:07:32,697:INFO:fetched data for 300G on direction To 
+Glenelg Interchange (Clockwise)
+2021-06-29 18:07:32,700:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 300G
+2021-06-29 18:07:32,700:INFO:fetched data for 300G on direction To 
+
+2021-06-29 18:07:33,226:INFO:fetched data for 300H on direction To 
+Glen Osmond (Clockwise)
+2021-06-29 18:07:33,234:INFO:fetched data for 300H on direction To 
+Glen Osmond (Anti-Clockwise)
+2021-06-29 18:07:33,751:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 300J
+2021-06-29 18:07:33,751:INFO:fetched data for 300J on direction To 
+
+2021-06-29 18:07:33,760:INFO:fetched data for 300J on direction To 
+Klemzig Station (Anti-clockwise)
+2021-06-29 18:07:34,216:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 300M
+2021-06-29 18:07:34,216:INFO:fetched data for 300M on direction To 
+
+2021-06-29 18:07:34,220:INFO:fetched data for 300M on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:34,625:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 300U
+2021-06-29 18:07:34,625:INFO:fetched data for 300U on direction To 
+
+2021-06-29 18:07:34,627:INFO:fetched data for 300U on direction To 
+Flinders University (Anti-clockwise)
+2021-06-29 18:07:35,177:INFO:fetched data for 320 on direction To 
+Marion Centre Interchange
+2021-06-29 18:07:35,182:INFO:fetched data for 320 on direction To 
+Aberfoyle Hub Centre Interchange
+2021-06-29 18:07:35,763:INFO:fetched data for 333 on direction To 
+Port Adelaide
+2021-06-29 18:07:35,765:INFO:fetched data for 333 on direction To 
+North Haven
+2021-06-29 18:07:36,173:INFO:fetched data for 361 on direction To 
+Tea Tree Plaza
+2021-06-29 18:07:36,178:INFO:fetched data for 361 on direction To 
+Port Adelaide
+2021-06-29 18:07:36,675:INFO:fetched data for 371 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:07:36,677:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 371
+2021-06-29 18:07:36,677:INFO:fetched data for 371 on direction To 
+
+2021-06-29 18:07:37,132:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 372
+2021-06-29 18:07:37,132:INFO:fetched data for 372 on direction To 
+
+2021-06-29 18:07:37,134:INFO:fetched data for 372 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:07:37,585:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 376
+2021-06-29 18:07:37,586:INFO:fetched data for 376 on direction To 
+
+2021-06-29 18:07:37,587:INFO:fetched data for 376 on direction To 
+West Lakes Interchange
+2021-06-29 18:07:38,126:INFO:fetched data for 400 on direction To 
+Salisbury North
+2021-06-29 18:07:38,131:INFO:fetched data for 400 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:38,724:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 400A
+2021-06-29 18:07:38,724:INFO:fetched data for 400A on direction To 
+
+2021-06-29 18:07:38,726:INFO:fetched data for 400A on direction To 
+Salisbury Centre Interchange
+2021-06-29 18:07:39,241:INFO:fetched data for 401 on direction To 
+Paralowie
+2021-06-29 18:07:39,244:INFO:fetched data for 401 on direction To 
+Salisbury
+2021-06-29 18:07:39,744:INFO:fetched data for 403 on direction To 
+Paralowie
+2021-06-29 18:07:39,746:INFO:fetched data for 403 on direction To 
+Salisbury
+2021-06-29 18:07:40,155:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 404
+2021-06-29 18:07:40,155:INFO:fetched data for 404 on direction To 
+
+2021-06-29 18:07:40,157:INFO:fetched data for 404 on direction To 
+Paralowie - Anti-Clockwise loop
+2021-06-29 18:07:40,663:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 404R
+2021-06-29 18:07:40,664:INFO:fetched data for 404R on direction To 
+
+2021-06-29 18:07:40,666:INFO:fetched data for 404R on direction To 
+Paralowie - Anti-Clockwise loop
+2021-06-29 18:07:41,180:INFO:fetched data for 405 on direction To 
+Paralowie - Clockwise loop
+2021-06-29 18:07:41,182:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 405
+2021-06-29 18:07:41,182:INFO:fetched data for 405 on direction To 
+
+2021-06-29 18:07:41,740:INFO:fetched data for 411 on direction To 
+Mawson Interchange
+2021-06-29 18:07:41,745:INFO:fetched data for 411 on direction To 
+Salisbury
+2021-06-29 18:07:42,195:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 411B
+2021-06-29 18:07:42,195:INFO:fetched data for 411B on direction To 
+
+2021-06-29 18:07:42,198:INFO:fetched data for 411B on direction To 
+Salisbury Interchange
+2021-06-29 18:07:42,713:INFO:fetched data for 411U on direction To 
+UniSA Mawson Lakes Campus
+2021-06-29 18:07:42,714:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 411U
+2021-06-29 18:07:42,714:INFO:fetched data for 411U on direction To 
+
+2021-06-29 18:07:43,118:INFO:fetched data for 415 on direction To 
+Salisbury Interchange
+2021-06-29 18:07:43,120:INFO:fetched data for 415 on direction To 
+Greenwith
+2021-06-29 18:07:43,460:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 415H
+2021-06-29 18:07:43,460:INFO:fetched data for 415H on direction To 
+
+2021-06-29 18:07:43,461:INFO:fetched data for 415H on direction To 
+Salisbury Heights
+2021-06-29 18:07:43,923:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 415V
+2021-06-29 18:07:43,924:INFO:fetched data for 415V on direction To 
+
+2021-06-29 18:07:43,926:INFO:fetched data for 415V on direction To 
+Golden Grove Interchange
+2021-06-29 18:07:44,343:INFO:fetched data for 421 on direction To 
+Salisbury Interchange
+2021-06-29 18:07:44,344:INFO:fetched data for 421 on direction To 
+ BAE Systems
+2021-06-29 18:07:44,768:INFO:fetched data for 430 on direction To 
+Salisbury Interchange
+2021-06-29 18:07:44,771:INFO:fetched data for 430 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:45,096:INFO:fetched data for 440 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:45,099:INFO:fetched data for 440 on direction To 
+Munno Para Station
+2021-06-29 18:07:45,592:INFO:fetched data for 441 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:45,596:INFO:fetched data for 441 on direction To 
+Smithfield Interchange
+2021-06-29 18:07:46,110:INFO:fetched data for 442 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:46,113:INFO:fetched data for 442 on direction To 
+Smithfield Interchange
+2021-06-29 18:07:46,520:INFO:fetched data for 443 on direction To 
+Elizabeth Station Loop
+2021-06-29 18:07:46,522:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 443
+2021-06-29 18:07:46,523:INFO:fetched data for 443 on direction To 
+
+2021-06-29 18:07:47,029:INFO:fetched data for 451 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:47,032:INFO:fetched data for 451 on direction To 
+Munno Para Centre Interchange
+2021-06-29 18:07:47,533:INFO:fetched data for 451A on direction To 
+Andrews Farm
+2021-06-29 18:07:47,534:INFO:fetched data for 451A on direction To 
+Andrews Farm
+2021-06-29 18:07:48,362:INFO:fetched data for 452 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:48,365:INFO:fetched data for 452 on direction To 
+Munno Para Centre Interchange
+2021-06-29 18:07:48,889:INFO:fetched data for 452W on direction To 
+Elizabeth West
+2021-06-29 18:07:48,890:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 452W
+2021-06-29 18:07:48,890:INFO:fetched data for 452W on direction To 
+
+2021-06-29 18:07:49,262:INFO:fetched data for 461 on direction To 
+Munno Para West
+2021-06-29 18:07:49,264:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 461
+2021-06-29 18:07:49,264:INFO:fetched data for 461 on direction To 
+
+2021-06-29 18:07:49,673:INFO:fetched data for 462 on direction To 
+Angle Vale
+2021-06-29 18:07:49,674:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 462
+2021-06-29 18:07:49,674:INFO:fetched data for 462 on direction To 
+
+2021-06-29 18:07:50,184:INFO:fetched data for 462C on direction To 
+Angle Vale
+2021-06-29 18:07:50,185:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 462C
+2021-06-29 18:07:50,186:INFO:fetched data for 462C on direction To 
+
+2021-06-29 18:07:50,615:INFO:fetched data for 470 on direction To 
+Tyndale School
+2021-06-29 18:07:50,619:INFO:fetched data for 470 on direction To 
+Parafield Gardens School
+2021-06-29 18:07:51,120:INFO:fetched data for 471 on direction To 
+St Columba College
+2021-06-29 18:07:51,124:INFO:fetched data for 471 on direction To 
+Hillbank
+2021-06-29 18:07:51,551:INFO:fetched data for 472 on direction To 
+Roma Mitchell Secondary College
+2021-06-29 18:07:51,555:INFO:fetched data for 472 on direction To 
+Smithfield Interchange
+2021-06-29 18:07:51,947:INFO:fetched data for 474 on direction To 
+Kildare College
+2021-06-29 18:07:51,949:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 474
+2021-06-29 18:07:51,949:INFO:fetched data for 474 on direction To 
+
+2021-06-29 18:07:52,471:INFO:fetched data for 475 on direction To 
+Heritage College
+2021-06-29 18:07:52,477:INFO:fetched data for 475 on direction To 
+Elizabeth Depot
+2021-06-29 18:07:52,962:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 476
+2021-06-29 18:07:52,963:INFO:fetched data for 476 on direction To 
+
+2021-06-29 18:07:52,966:INFO:fetched data for 476 on direction To 
+Elizabeth Station
+2021-06-29 18:07:53,393:INFO:fetched data for 477 on direction To 
+St Dominics Priory College
+2021-06-29 18:07:53,399:INFO:fetched data for 477 on direction To 
+Elizabeth Station
+2021-06-29 18:07:53,902:INFO:fetched data for 479 on direction To 
+Modbury Heights School
+2021-06-29 18:07:53,907:INFO:fetched data for 479 on direction To 
+Elizabeth Depot
+2021-06-29 18:07:54,297:INFO:fetched data for 481 on direction To 
+St Gabriels
+2021-06-29 18:07:54,299:INFO:fetched data for 481 on direction To 
+Pooraka
+2021-06-29 18:07:54,823:INFO:fetched data for 482 on direction To 
+Roma Mitchell Secondary College
+2021-06-29 18:07:54,829:INFO:fetched data for 482 on direction To 
+Elizabeth  Interchange
+2021-06-29 18:07:55,347:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 483
+2021-06-29 18:07:55,348:INFO:fetched data for 483 on direction To 
+
+2021-06-29 18:07:55,352:INFO:fetched data for 483 on direction To 
+Elizabeth Interchange
+2021-06-29 18:07:55,924:INFO:fetched data for 484 on direction To 
+Thomas More College
+2021-06-29 18:07:55,925:INFO:fetched data for 484 on direction To 
+Salisbury
+2021-06-29 18:07:56,327:INFO:fetched data for 485 on direction To 
+Thomas More College
+2021-06-29 18:07:56,328:INFO:fetched data for 485 on direction To 
+Mawson Lakes
+2021-06-29 18:07:56,838:INFO:fetched data for 486 on direction To 
+Elizabeth
+2021-06-29 18:07:56,840:INFO:fetched data for 486 on direction To 
+Gawler
+2021-06-29 18:07:57,255:INFO:fetched data for 487 on direction To 
+Smithfield
+2021-06-29 18:07:57,257:INFO:fetched data for 487 on direction To 
+Gawler
+2021-06-29 18:07:57,645:INFO:fetched data for 491 on direction To 
+Hewett - Clockwise loop
+2021-06-29 18:07:57,646:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 491
+2021-06-29 18:07:57,646:INFO:fetched data for 491 on direction To 
+
+2021-06-29 18:07:58,174:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 492A
+2021-06-29 18:07:58,174:INFO:fetched data for 492A on direction To 
+
+2021-06-29 18:07:58,176:INFO:fetched data for 492A on direction To 
+Gawler East Circuit - Anti-Clockwise loop
+2021-06-29 18:07:58,562:INFO:fetched data for 492C on direction To 
+Gawler East Circuit - Clockwise loop
+2021-06-29 18:07:58,563:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 492C
+2021-06-29 18:07:58,564:INFO:fetched data for 492C on direction To 
+
+2021-06-29 18:07:58,996:INFO:fetched data for 493 on direction To 
+Gawler South - Clockwise Loop
+2021-06-29 18:07:58,997:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 493
+2021-06-29 18:07:58,997:INFO:fetched data for 493 on direction To 
+
+2021-06-29 18:07:59,512:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 494
+2021-06-29 18:07:59,512:INFO:fetched data for 494 on direction To 
+
+2021-06-29 18:07:59,515:INFO:fetched data for 494 on direction To 
+Gawler South - Anti-Clockwise Loop
+2021-06-29 18:08:00,043:INFO:fetched data for 500 on direction To 
+City
+2021-06-29 18:08:00,047:INFO:fetched data for 500 on direction To 
+Elizabeth Interchange
+2021-06-29 18:08:00,442:INFO:fetched data for 501 on direction To 
+City
+2021-06-29 18:08:00,444:INFO:fetched data for 501 on direction To 
+Mawson Interchange
+2021-06-29 18:08:00,777:INFO:fetched data for 502 on direction To 
+City
+2021-06-29 18:08:00,781:INFO:fetched data for 502 on direction To 
+Salisbury Interchange
+2021-06-29 18:08:01,261:INFO:fetched data for 502X on direction To 
+City
+2021-06-29 18:08:01,265:INFO:fetched data for 502X on direction To 
+Salisbury Interchange
+2021-06-29 18:08:01,669:INFO:fetched data for 503 on direction To 
+City
+2021-06-29 18:08:01,671:INFO:fetched data for 503 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:02,189:INFO:fetched data for 506 on direction To 
+City
+2021-06-29 18:08:02,194:INFO:fetched data for 506 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:02,680:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 506H
+2021-06-29 18:08:02,680:INFO:fetched data for 506H on direction To 
+
+2021-06-29 18:08:02,683:INFO:fetched data for 506H on direction To 
+Modbury North
+2021-06-29 18:08:03,136:INFO:fetched data for 507 on direction To 
+City
+2021-06-29 18:08:03,139:INFO:fetched data for 507 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:03,608:INFO:fetched data for 528 on direction To 
+City
+2021-06-29 18:08:03,611:INFO:fetched data for 528 on direction To 
+Northgate
+2021-06-29 18:08:04,125:INFO:fetched data for 530 on direction To 
+City
+2021-06-29 18:08:04,126:INFO:fetched data for 530 on direction To 
+Firle
+2021-06-29 18:08:04,537:INFO:fetched data for 540 on direction To 
+City
+2021-06-29 18:08:04,539:INFO:fetched data for 540 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:04,951:INFO:fetched data for 541 on direction To 
+City
+2021-06-29 18:08:04,955:INFO:fetched data for 541 on direction To 
+Fairview Park
+2021-06-29 18:08:05,459:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 541G
+2021-06-29 18:08:05,459:INFO:fetched data for 541G on direction To 
+
+2021-06-29 18:08:05,462:INFO:fetched data for 541G on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:05,976:INFO:fetched data for 541X on direction To 
+City
+2021-06-29 18:08:05,980:INFO:fetched data for 541X on direction To 
+Fairview Park
+2021-06-29 18:08:06,484:INFO:fetched data for 542 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:06,486:INFO:fetched data for 542 on direction To 
+Fairview Park
+2021-06-29 18:08:06,895:INFO:fetched data for 542X on direction To 
+City
+2021-06-29 18:08:06,897:INFO:fetched data for 542X on direction To 
+Fairview Park
+2021-06-29 18:08:07,279:INFO:fetched data for 543 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:07,281:INFO:fetched data for 543 on direction To 
+Surrey Downs
+2021-06-29 18:08:07,704:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 543G
+2021-06-29 18:08:07,704:INFO:fetched data for 543G on direction To 
+
+2021-06-29 18:08:07,706:INFO:fetched data for 543G on direction To 
+Redwood Park
+2021-06-29 18:08:08,105:INFO:fetched data for 543X on direction To 
+City
+2021-06-29 18:08:08,108:INFO:fetched data for 543X on direction To 
+Surrey Downs
+2021-06-29 18:08:08,628:INFO:fetched data for 544 on direction To 
+City
+2021-06-29 18:08:08,630:INFO:fetched data for 544 on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:09,048:INFO:fetched data for 544X on direction To 
+City
+2021-06-29 18:08:09,051:INFO:fetched data for 544X on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:09,411:INFO:fetched data for 545 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:09,414:INFO:fetched data for 545 on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:09,857:INFO:fetched data for 545X on direction To 
+City
+2021-06-29 18:08:09,859:INFO:fetched data for 545X on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:10,339:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 546
+2021-06-29 18:08:10,339:INFO:fetched data for 546 on direction To 
+
+2021-06-29 18:08:10,341:INFO:fetched data for 546 on direction To 
+Para Hills
+2021-06-29 18:08:10,777:INFO:fetched data for 546X on direction To 
+City
+2021-06-29 18:08:10,779:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 546X
+2021-06-29 18:08:10,779:INFO:fetched data for 546X on direction To 
+
+2021-06-29 18:08:11,195:INFO:fetched data for 548 on direction To 
+City
+2021-06-29 18:08:11,198:INFO:fetched data for 548 on direction To 
+Greenwith
+2021-06-29 18:08:11,710:INFO:fetched data for 556 on direction To 
+City
+2021-06-29 18:08:11,712:INFO:fetched data for 556 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:12,132:INFO:fetched data for 557 on direction To 
+City
+2021-06-29 18:08:12,137:INFO:fetched data for 557 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:12,629:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 557S
+2021-06-29 18:08:12,629:INFO:fetched data for 557S on direction To 
+
+2021-06-29 18:08:12,632:INFO:fetched data for 557S on direction To 
+St Agnes
+2021-06-29 18:08:13,090:INFO:fetched data for 559 on direction To 
+Paradise Interchange
+2021-06-29 18:08:13,094:INFO:fetched data for 559 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:13,543:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 559S
+2021-06-29 18:08:13,543:INFO:fetched data for 559S on direction To 
+
+2021-06-29 18:08:13,546:INFO:fetched data for 559S on direction To 
+St Agnes
+2021-06-29 18:08:14,180:INFO:fetched data for 560 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:08:14,185:INFO:fetched data for 560 on direction To 
+Elizabeth Interchange
+2021-06-29 18:08:14,673:INFO:fetched data for 560A on direction To 
+Salisbury Interchange (from Elizabeth)
+2021-06-29 18:08:14,677:INFO:fetched data for 560A on direction To 
+Salisbury Interchange (from Ingle Farm)
+2021-06-29 18:08:15,181:INFO:fetched data for 560B on direction To 
+Pooraka
+2021-06-29 18:08:15,182:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 560B
+2021-06-29 18:08:15,182:INFO:fetched data for 560B on direction To 
+
+2021-06-29 18:08:15,595:INFO:fetched data for 565 on direction To 
+Ingle Farm
+2021-06-29 18:08:15,598:INFO:fetched data for 565 on direction To 
+Mawson Interchange
+2021-06-29 18:08:16,111:INFO:fetched data for 566 on direction To 
+Golden Grove Interchange
+2021-06-29 18:08:16,114:INFO:fetched data for 566 on direction To 
+Mawson Interchange
+2021-06-29 18:08:16,723:INFO:fetched data for 578 on direction To 
+City
+2021-06-29 18:08:16,725:INFO:fetched data for 578 on direction To 
+Newton & Athelstone
+2021-06-29 18:08:17,228:INFO:fetched data for 579 on direction To 
+Paradise Interchange
+2021-06-29 18:08:17,230:INFO:fetched data for 579 on direction To 
+Athelstone
+2021-06-29 18:08:17,685:INFO:fetched data for 580 on direction To 
+Keswick
+2021-06-29 18:08:17,690:INFO:fetched data for 580 on direction To 
+Paradise Interchange
+2021-06-29 18:08:18,232:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 591A
+2021-06-29 18:08:18,232:INFO:fetched data for 591A on direction To 
+
+2021-06-29 18:08:18,235:INFO:fetched data for 591A on direction To 
+Greenwith
+2021-06-29 18:08:18,665:INFO:fetched data for 591C on direction To 
+Greenwith
+2021-06-29 18:08:18,667:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 591C
+2021-06-29 18:08:18,667:INFO:fetched data for 591C on direction To 
+
+2021-06-29 18:08:19,199:INFO:fetched data for 600 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:19,205:INFO:fetched data for 600 on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:19,797:INFO:fetched data for 600A on direction To 
+Aberfoyle Hub (from Old Reynella Interchange)
+2021-06-29 18:08:19,800:INFO:fetched data for 600A on direction To 
+Aberfoyle Hub (from Marion Centre Interchange)
+2021-06-29 18:08:20,305:INFO:fetched data for 600B on direction To 
+Blackwood Station (from Old Reynela Interchange)
+2021-06-29 18:08:20,308:INFO:fetched data for 600B on direction To 
+Blackwood Station (from Marion Interchange)
+2021-06-29 18:08:20,803:INFO:fetched data for 600S on direction To 
+Bedford Park
+2021-06-29 18:08:20,804:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 600S
+2021-06-29 18:08:20,805:INFO:fetched data for 600S on direction To 
+
+2021-06-29 18:08:21,351:INFO:fetched data for 601 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:21,356:INFO:fetched data for 601 on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:21,964:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 601A
+2021-06-29 18:08:21,964:INFO:fetched data for 601A on direction To 
+
+2021-06-29 18:08:21,967:INFO:fetched data for 601A on direction To 
+Aberfoyle Hub
+2021-06-29 18:08:22,453:INFO:fetched data for 601B on direction To 
+Blackwood Station
+2021-06-29 18:08:22,455:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 601B
+2021-06-29 18:08:22,455:INFO:fetched data for 601B on direction To 
+
+2021-06-29 18:08:22,960:INFO:fetched data for 605 on direction To 
+Blackwood Station
+2021-06-29 18:08:22,963:INFO:fetched data for 605 on direction To 
+Darlington
+2021-06-29 18:08:23,465:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 610
+2021-06-29 18:08:23,465:INFO:fetched data for 610 on direction To 
+
+2021-06-29 18:08:23,466:INFO:fetched data for 610 on direction To 
+Adelaide Railway Station
+2021-06-29 18:08:23,864:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 611
+2021-06-29 18:08:23,864:INFO:fetched data for 611 on direction To 
+
+2021-06-29 18:08:23,865:INFO:fetched data for 611 on direction To 
+City
+2021-06-29 18:08:24,281:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 613
+2021-06-29 18:08:24,281:INFO:fetched data for 613 on direction To 
+
+2021-06-29 18:08:24,282:INFO:fetched data for 613 on direction To 
+City
+2021-06-29 18:08:24,696:INFO:fetched data for 616 on direction To 
+Temple Christian College
+2021-06-29 18:08:24,697:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 616
+2021-06-29 18:08:24,697:INFO:fetched data for 616 on direction To 
+
+2021-06-29 18:08:25,239:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 617
+2021-06-29 18:08:25,239:INFO:fetched data for 617 on direction To 
+
+2021-06-29 18:08:25,240:INFO:fetched data for 617 on direction To 
+City
+2021-06-29 18:08:25,731:INFO:fetched data for 619 on direction To 
+Mary McKillop
+2021-06-29 18:08:25,733:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 619
+2021-06-29 18:08:25,733:INFO:fetched data for 619 on direction To 
+
+2021-06-29 18:08:26,136:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 622
+2021-06-29 18:08:26,136:INFO:fetched data for 622 on direction To 
+
+2021-06-29 18:08:26,138:INFO:fetched data for 622 on direction To 
+Saint Ignatius College (Athelstone)
+2021-06-29 18:08:26,647:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 623
+2021-06-29 18:08:26,647:INFO:fetched data for 623 on direction To 
+
+2021-06-29 18:08:26,649:INFO:fetched data for 623 on direction To 
+Saint Ignatius College (Athelstone)
+2021-06-29 18:08:27,066:INFO:fetched data for 624 on direction To 
+Saint Ignatius College (Athelstone)
+2021-06-29 18:08:27,068:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 624
+2021-06-29 18:08:27,068:INFO:fetched data for 624 on direction To 
+
+2021-06-29 18:08:27,470:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 625
+2021-06-29 18:08:27,470:INFO:fetched data for 625 on direction To 
+
+2021-06-29 18:08:27,473:INFO:fetched data for 625 on direction To 
+Parkside
+2021-06-29 18:08:27,883:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 626
+2021-06-29 18:08:27,883:INFO:fetched data for 626 on direction To 
+
+2021-06-29 18:08:27,886:INFO:fetched data for 626 on direction To 
+City
+2021-06-29 18:08:28,234:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 627
+2021-06-29 18:08:28,234:INFO:fetched data for 627 on direction To 
+
+2021-06-29 18:08:28,237:INFO:fetched data for 627 on direction To 
+Glen Osmond
+2021-06-29 18:08:28,699:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 628
+2021-06-29 18:08:28,699:INFO:fetched data for 628 on direction To 
+
+2021-06-29 18:08:28,702:INFO:fetched data for 628 on direction To 
+Parkside
+2021-06-29 18:08:29,091:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 629
+2021-06-29 18:08:29,091:INFO:fetched data for 629 on direction To 
+
+2021-06-29 18:08:29,094:INFO:fetched data for 629 on direction To 
+Norwood
+2021-06-29 18:08:29,521:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 630
+2021-06-29 18:08:29,521:INFO:fetched data for 630 on direction To 
+
+2021-06-29 18:08:29,525:INFO:fetched data for 630 on direction To 
+City
+2021-06-29 18:08:30,022:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 632
+2021-06-29 18:08:30,022:INFO:fetched data for 632 on direction To 
+
+2021-06-29 18:08:30,024:INFO:fetched data for 632 on direction To 
+City
+2021-06-29 18:08:30,534:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 633
+2021-06-29 18:08:30,534:INFO:fetched data for 633 on direction To 
+
+2021-06-29 18:08:30,536:INFO:fetched data for 633 on direction To 
+Plympton
+2021-06-29 18:08:30,956:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 634
+2021-06-29 18:08:30,956:INFO:fetched data for 634 on direction To 
+
+2021-06-29 18:08:30,958:INFO:fetched data for 634 on direction To 
+City
+2021-06-29 18:08:31,327:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 635
+2021-06-29 18:08:31,327:INFO:fetched data for 635 on direction To 
+
+2021-06-29 18:08:31,329:INFO:fetched data for 635 on direction To 
+City
+2021-06-29 18:08:31,751:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 636
+2021-06-29 18:08:31,751:INFO:fetched data for 636 on direction To 
+
+2021-06-29 18:08:31,753:INFO:fetched data for 636 on direction To 
+City
+2021-06-29 18:08:32,168:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 637
+2021-06-29 18:08:32,168:INFO:fetched data for 637 on direction To 
+
+2021-06-29 18:08:32,170:INFO:fetched data for 637 on direction To 
+City
+2021-06-29 18:08:32,576:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 638
+2021-06-29 18:08:32,577:INFO:fetched data for 638 on direction To 
+
+2021-06-29 18:08:32,579:INFO:fetched data for 638 on direction To 
+City
+2021-06-29 18:08:33,087:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 639
+2021-06-29 18:08:33,087:INFO:fetched data for 639 on direction To 
+
+2021-06-29 18:08:33,089:INFO:fetched data for 639 on direction To 
+Paradise Interchange
+2021-06-29 18:08:33,547:INFO:fetched data for 640 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:33,549:INFO:fetched data for 640 on direction To 
+Marino
+2021-06-29 18:08:33,928:INFO:fetched data for 645 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:33,931:INFO:fetched data for 645 on direction To 
+Seaview Downs
+2021-06-29 18:08:34,317:INFO:fetched data for 646 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:34,319:INFO:fetched data for 646 on direction To 
+Seacombe Heights
+2021-06-29 18:08:34,843:INFO:fetched data for 650 on direction To 
+St Michaels Senior College
+2021-06-29 18:08:34,845:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 650
+2021-06-29 18:08:34,845:INFO:fetched data for 650 on direction To 
+
+2021-06-29 18:08:35,455:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 651
+2021-06-29 18:08:35,455:INFO:fetched data for 651 on direction To 
+
+2021-06-29 18:08:35,458:INFO:fetched data for 651 on direction To 
+St Michael's Senior College
+2021-06-29 18:08:35,859:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 652
+2021-06-29 18:08:35,860:INFO:fetched data for 652 on direction To 
+
+2021-06-29 18:08:35,863:INFO:fetched data for 652 on direction To 
+St Michael's Junior College
+2021-06-29 18:08:36,287:INFO:fetched data for 653 on direction To 
+Nazareth College
+2021-06-29 18:08:36,289:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 653
+2021-06-29 18:08:36,289:INFO:fetched data for 653 on direction To 
+
+2021-06-29 18:08:36,686:INFO:fetched data for 654 on direction To 
+St Michael's Jnr
+2021-06-29 18:08:36,688:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 654
+2021-06-29 18:08:36,688:INFO:fetched data for 654 on direction To 
+
+2021-06-29 18:08:37,092:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 655
+2021-06-29 18:08:37,093:INFO:fetched data for 655 on direction To 
+
+2021-06-29 18:08:37,097:INFO:fetched data for 655 on direction To 
+Alberton
+2021-06-29 18:08:37,505:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 656
+2021-06-29 18:08:37,505:INFO:fetched data for 656 on direction To 
+
+2021-06-29 18:08:37,508:INFO:fetched data for 656 on direction To 
+Henley Beach South
+2021-06-29 18:08:37,999:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 657
+2021-06-29 18:08:37,999:INFO:fetched data for 657 on direction To 
+
+2021-06-29 18:08:38,001:INFO:fetched data for 657 on direction To 
+Queenstown
+2021-06-29 18:08:38,522:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 658
+2021-06-29 18:08:38,522:INFO:fetched data for 658 on direction To 
+
+2021-06-29 18:08:38,525:INFO:fetched data for 658 on direction To 
+Largs Bay
+2021-06-29 18:08:38,932:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 659
+2021-06-29 18:08:38,932:INFO:fetched data for 659 on direction To 
+
+2021-06-29 18:08:38,935:INFO:fetched data for 659 on direction To 
+Birkenhead
+2021-06-29 18:08:39,435:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 660
+2021-06-29 18:08:39,435:INFO:fetched data for 660 on direction To 
+
+2021-06-29 18:08:39,437:INFO:fetched data for 660 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:08:39,868:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 661
+2021-06-29 18:08:39,868:INFO:fetched data for 661 on direction To 
+
+2021-06-29 18:08:39,871:INFO:fetched data for 661 on direction To 
+Delfin Island
+2021-06-29 18:08:40,258:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 663
+2021-06-29 18:08:40,258:INFO:fetched data for 663 on direction To 
+
+2021-06-29 18:08:40,261:INFO:fetched data for 663 on direction To 
+Fulham
+2021-06-29 18:08:40,692:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 664
+2021-06-29 18:08:40,692:INFO:fetched data for 664 on direction To 
+
+2021-06-29 18:08:40,697:INFO:fetched data for 664 on direction To 
+Alberton
+2021-06-29 18:08:41,187:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 665
+2021-06-29 18:08:41,187:INFO:fetched data for 665 on direction To 
+
+2021-06-29 18:08:41,189:INFO:fetched data for 665 on direction To 
+Port Adelaide
+2021-06-29 18:08:41,732:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 667
+2021-06-29 18:08:41,732:INFO:fetched data for 667 on direction To 
+
+2021-06-29 18:08:41,735:INFO:fetched data for 667 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:08:42,211:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 668
+2021-06-29 18:08:42,211:INFO:fetched data for 668 on direction To 
+
+2021-06-29 18:08:42,215:INFO:fetched data for 668 on direction To 
+Port Adelaide
+2021-06-29 18:08:42,726:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 669
+2021-06-29 18:08:42,726:INFO:fetched data for 669 on direction To 
+
+2021-06-29 18:08:42,728:INFO:fetched data for 669 on direction To 
+Glenelg
+2021-06-29 18:08:43,135:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 670
+2021-06-29 18:08:43,136:INFO:fetched data for 670 on direction To 
+
+2021-06-29 18:08:43,138:INFO:fetched data for 670 on direction To 
+Findon
+2021-06-29 18:08:43,563:INFO:fetched data for 671 on direction To 
+Brighton Secondary School
+2021-06-29 18:08:43,566:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 671
+2021-06-29 18:08:43,567:INFO:fetched data for 671 on direction To 
+
+2021-06-29 18:08:43,959:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 672
+2021-06-29 18:08:43,959:INFO:fetched data for 672 on direction To 
+
+2021-06-29 18:08:43,961:INFO:fetched data for 672 on direction To 
+Taperoo
+2021-06-29 18:08:44,364:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 673
+2021-06-29 18:08:44,364:INFO:fetched data for 673 on direction To 
+
+2021-06-29 18:08:44,367:INFO:fetched data for 673 on direction To 
+Blackwood Station
+2021-06-29 18:08:44,894:INFO:fetched data for 681 on direction To 
+Flinders University
+2021-06-29 18:08:44,900:INFO:fetched data for 681 on direction To 
+Hallett Cove Beach Station
+2021-06-29 18:08:45,384:INFO:fetched data for 681A on direction To 
+Hallett Cove
+2021-06-29 18:08:45,385:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 681A
+2021-06-29 18:08:45,385:INFO:fetched data for 681A on direction To 
+
+2021-06-29 18:08:45,909:INFO:fetched data for 682 on direction To 
+Sheidow Park
+2021-06-29 18:08:45,911:INFO:fetched data for 682 on direction To 
+Hallett Cove Beach Station
+2021-06-29 18:08:46,309:INFO:fetched data for 683 on direction To 
+Hallett Cove South
+2021-06-29 18:08:46,310:INFO:fetched data for 683 on direction To 
+Hallett Cove Beach Station
+2021-06-29 18:08:46,727:INFO:fetched data for 719 on direction To 
+City
+2021-06-29 18:08:46,730:INFO:fetched data for 719 on direction To 
+Flinders University
+2021-06-29 18:08:47,156:INFO:fetched data for 720 on direction To 
+City
+2021-06-29 18:08:47,162:INFO:fetched data for 720 on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:47,569:INFO:fetched data for 720H on direction To 
+City
+2021-06-29 18:08:47,575:INFO:fetched data for 720H on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:48,071:INFO:fetched data for 721 on direction To 
+City
+2021-06-29 18:08:48,079:INFO:fetched data for 721 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:48,617:INFO:fetched data for 721F on direction To 
+City
+2021-06-29 18:08:48,623:INFO:fetched data for 721F on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:49,063:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 721R
+2021-06-29 18:08:49,064:INFO:fetched data for 721R on direction To 
+
+2021-06-29 18:08:49,066:INFO:fetched data for 721R on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:49,492:INFO:fetched data for 721X on direction To 
+City
+2021-06-29 18:08:49,495:INFO:fetched data for 721X on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:49,933:INFO:fetched data for 722 on direction To 
+City
+2021-06-29 18:08:49,940:INFO:fetched data for 722 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:50,429:INFO:fetched data for 722F on direction To 
+City
+2021-06-29 18:08:50,434:INFO:fetched data for 722F on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:50,933:INFO:fetched data for 722X on direction To 
+City
+2021-06-29 18:08:50,937:INFO:fetched data for 722X on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:51,408:INFO:fetched data for 723F on direction To 
+City
+2021-06-29 18:08:51,415:INFO:fetched data for 723F on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:08:51,948:INFO:fetched data for 723X on direction To 
+City
+2021-06-29 18:08:51,951:INFO:fetched data for 723X on direction To 
+Woodcroft Community Centre
+2021-06-29 18:08:52,364:INFO:fetched data for 725 on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:52,367:INFO:fetched data for 725 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:52,884:INFO:fetched data for 733 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:52,889:INFO:fetched data for 733 on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:08:53,396:INFO:fetched data for 733G on direction To 
+O'Halloran Hill
+2021-06-29 18:08:53,397:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 733G
+2021-06-29 18:08:53,397:INFO:fetched data for 733G on direction To 
+
+2021-06-29 18:08:53,854:INFO:fetched data for 734 on direction To 
+Marion Centre Interchange
+2021-06-29 18:08:53,861:INFO:fetched data for 734 on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:08:54,288:INFO:fetched data for 737 on direction To 
+Old Reynella Interchange
+2021-06-29 18:08:54,291:INFO:fetched data for 737 on direction To 
+Chandlers Hill
+2021-06-29 18:08:54,815:INFO:fetched data for 741 on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:08:54,820:INFO:fetched data for 741 on direction To 
+Maslin Beach
+2021-06-29 18:08:55,320:INFO:fetched data for 741A on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:55,322:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 741A
+2021-06-29 18:08:55,322:INFO:fetched data for 741A on direction To 
+
+2021-06-29 18:08:55,729:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 743
+2021-06-29 18:08:55,730:INFO:fetched data for 743 on direction To 
+
+2021-06-29 18:08:55,732:INFO:fetched data for 743 on direction To 
+Huntfield Heights Anti-Clockwise loop service
+2021-06-29 18:08:56,235:INFO:fetched data for 744 on direction To 
+Huntfield Heights Clockwise loop service
+2021-06-29 18:08:56,237:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 744
+2021-06-29 18:08:56,237:INFO:fetched data for 744 on direction To 
+
+2021-06-29 18:08:56,660:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 745
+2021-06-29 18:08:56,660:INFO:fetched data for 745 on direction To 
+
+2021-06-29 18:08:56,664:INFO:fetched data for 745 on direction To 
+Seaford - Anti-clockwise loop
+2021-06-29 18:08:57,166:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 745A
+2021-06-29 18:08:57,166:INFO:fetched data for 745A on direction To 
+
+2021-06-29 18:08:57,169:INFO:fetched data for 745A on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:57,575:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 745C
+2021-06-29 18:08:57,576:INFO:fetched data for 745C on direction To 
+
+2021-06-29 18:08:57,578:INFO:fetched data for 745C on direction To 
+Seaford Interchange
+2021-06-29 18:08:58,082:INFO:fetched data for 747 on direction To 
+Seaford - Clockwise loop
+2021-06-29 18:08:58,083:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 747
+2021-06-29 18:08:58,084:INFO:fetched data for 747 on direction To 
+
+2021-06-29 18:08:58,502:INFO:fetched data for 747A on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:58,504:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 747A
+2021-06-29 18:08:58,504:INFO:fetched data for 747A on direction To 
+
+2021-06-29 18:08:58,909:INFO:fetched data for 747B on direction To 
+Seaford Rise
+2021-06-29 18:08:58,910:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 747B
+2021-06-29 18:08:58,910:INFO:fetched data for 747B on direction To 
+
+2021-06-29 18:08:59,452:INFO:fetched data for 750 on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:08:59,458:INFO:fetched data for 750 on direction To 
+Sellicks Beach
+2021-06-29 18:08:59,939:INFO:fetched data for 750A on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:08:59,942:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 750A
+2021-06-29 18:08:59,942:INFO:fetched data for 750A on direction To 
+
+2021-06-29 18:09:00,494:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 750B
+2021-06-29 18:09:00,494:INFO:fetched data for 750B on direction To 
+
+2021-06-29 18:09:00,498:INFO:fetched data for 750B on direction To 
+Aldinga Shopping Centre
+2021-06-29 18:09:00,957:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 750C
+2021-06-29 18:09:00,957:INFO:fetched data for 750C on direction To 
+
+2021-06-29 18:09:00,960:INFO:fetched data for 750C on direction To 
+Seaford Centre
+2021-06-29 18:09:01,470:INFO:fetched data for 750R on direction To 
+Seaford Interchange (from Sellicks Beach)
+2021-06-29 18:09:01,472:INFO:fetched data for 750R on direction To 
+Seaford Interchange (from Colonnades)
+2021-06-29 18:09:01,977:INFO:fetched data for 750X on direction To 
+Seaford Interchange
+2021-06-29 18:09:01,980:INFO:fetched data for 750X on direction To 
+Sellicks Beach
+2021-06-29 18:09:02,394:INFO:fetched data for 751 on direction To 
+Colonnades Centre Interchange
+2021-06-29 18:09:02,400:INFO:fetched data for 751 on direction To 
+Aldinga Shopping Centre
+2021-06-29 18:09:02,909:INFO:fetched data for 751A on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:09:02,910:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 751A
+2021-06-29 18:09:02,910:INFO:fetched data for 751A on direction To 
+
+2021-06-29 18:09:03,251:INFO:fetched data for 751C on direction To 
+Seaford Centre
+2021-06-29 18:09:03,252:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 751C
+2021-06-29 18:09:03,253:INFO:fetched data for 751C on direction To 
+
+2021-06-29 18:09:03,730:INFO:fetched data for 751H on direction To 
+Noarlunga Hospital
+2021-06-29 18:09:03,732:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 751H
+2021-06-29 18:09:03,732:INFO:fetched data for 751H on direction To 
+
+2021-06-29 18:09:04,179:INFO:fetched data for 751R on direction To 
+Seaford Intrechange (from Aldinga)
+2021-06-29 18:09:04,182:INFO:fetched data for 751R on direction To 
+Seaford Interchange (from Colonnades)
+2021-06-29 18:09:04,645:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 751W
+2021-06-29 18:09:04,645:INFO:fetched data for 751W on direction To 
+
+2021-06-29 18:09:04,648:INFO:fetched data for 751W on direction To 
+Willunga
+2021-06-29 18:09:05,152:INFO:fetched data for 752 on direction To 
+McLaren Vale
+2021-06-29 18:09:05,154:INFO:fetched data for 752 on direction To 
+McLaren Flat
+2021-06-29 18:09:05,675:INFO:fetched data for 755 on direction To 
+Seaford Centre
+2021-06-29 18:09:05,678:INFO:fetched data for 755 on direction To 
+Aldinga Beach
+2021-06-29 18:09:06,187:INFO:fetched data for 756 on direction To 
+Seaford Centre
+2021-06-29 18:09:06,192:INFO:fetched data for 756 on direction To 
+Port Willunga
+2021-06-29 18:09:06,696:INFO:fetched data for 770 on direction To 
+Aberfoyle Park High School
+2021-06-29 18:09:06,699:INFO:fetched data for 770 on direction To 
+Colonnades  Centre Interchange
+2021-06-29 18:09:07,100:INFO:fetched data for 771 on direction To 
+Aberfoyle Park High School
+2021-06-29 18:09:07,102:INFO:fetched data for 771 on direction To 
+Woodcroft
+2021-06-29 18:09:07,541:INFO:fetched data for 772 on direction To 
+Hallett Cove R-12 School
+2021-06-29 18:09:07,544:INFO:fetched data for 772 on direction To 
+Old Reynella Interchange
+2021-06-29 18:09:08,006:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 774
+2021-06-29 18:09:08,006:INFO:fetched data for 774 on direction To 
+
+2021-06-29 18:09:08,008:INFO:fetched data for 774 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:09:08,366:INFO:fetched data for 775 on direction To 
+Sheidow Park
+2021-06-29 18:09:08,371:INFO:fetched data for 775 on direction To 
+Woodcroft College
+2021-06-29 18:09:08,829:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 776
+2021-06-29 18:09:08,829:INFO:fetched data for 776 on direction To 
+
+2021-06-29 18:09:08,831:INFO:fetched data for 776 on direction To 
+Maslin Beach
+2021-06-29 18:09:09,281:INFO:fetched data for 777 on direction To 
+Sacred Heart Senior College
+2021-06-29 18:09:09,286:INFO:fetched data for 777 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:09:09,661:INFO:fetched data for 778 on direction To 
+Reynella East High School
+2021-06-29 18:09:09,662:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 778
+2021-06-29 18:09:09,662:INFO:fetched data for 778 on direction To 
+
+2021-06-29 18:09:10,165:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 780
+2021-06-29 18:09:10,165:INFO:fetched data for 780 on direction To 
+
+2021-06-29 18:09:10,168:INFO:fetched data for 780 on direction To 
+Flinders Medical Centre
+2021-06-29 18:09:10,574:INFO:fetched data for 781 on direction To 
+Sacred Heart Senior College
+2021-06-29 18:09:10,575:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 781
+2021-06-29 18:09:10,575:INFO:fetched data for 781 on direction To 
+
+2021-06-29 18:09:11,111:INFO:fetched data for 782 on direction To 
+Urrbrae High School
+2021-06-29 18:09:11,117:INFO:fetched data for 782 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:09:11,537:INFO:fetched data for 783 on direction To 
+Urrbrae High School
+2021-06-29 18:09:11,541:INFO:fetched data for 783 on direction To 
+Old Reynella Interchange
+2021-06-29 18:09:12,019:INFO:fetched data for 784 on direction To 
+Seaview High School
+2021-06-29 18:09:12,021:INFO:fetched data for 784 on direction To 
+Sheidow Park
+2021-06-29 18:09:12,515:INFO:fetched data for 785 on direction To 
+Seaview High School
+2021-06-29 18:09:12,518:INFO:fetched data for 785 on direction To 
+Sheidow Park
+2021-06-29 18:09:12,955:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 786
+2021-06-29 18:09:12,955:INFO:fetched data for 786 on direction To 
+
+2021-06-29 18:09:12,957:INFO:fetched data for 786 on direction To 
+Morphett Vale
+2021-06-29 18:09:13,313:INFO:fetched data for 820 on direction To 
+City
+2021-06-29 18:09:13,316:INFO:fetched data for 820 on direction To 
+Burnside
+2021-06-29 18:09:13,766:INFO:fetched data for 821 on direction To 
+City
+2021-06-29 18:09:13,771:INFO:fetched data for 821 on direction To 
+Carey Gully
+2021-06-29 18:09:14,214:INFO:fetched data for 822 on direction To 
+City
+2021-06-29 18:09:14,220:INFO:fetched data for 822 on direction To 
+Stirling
+2021-06-29 18:09:14,667:INFO:fetched data for 823 on direction To 
+Crafers Park 'n' Ride
+2021-06-29 18:09:14,669:INFO:fetched data for 823 on direction To 
+Cleland Wildlife Park
+2021-06-29 18:09:15,206:INFO:fetched data for 830F on direction To 
+City
+2021-06-29 18:09:15,211:INFO:fetched data for 830F on direction To 
+Lobethal
+2021-06-29 18:09:15,700:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 834
+2021-06-29 18:09:15,700:INFO:fetched data for 834 on direction To 
+
+2021-06-29 18:09:15,703:INFO:fetched data for 834 on direction To 
+Lobethal
+2021-06-29 18:09:16,321:INFO:fetched data for 834A on direction To 
+Verdun
+2021-06-29 18:09:16,324:INFO:fetched data for 834A on direction To 
+Lobethal
+2021-06-29 18:09:16,843:INFO:fetched data for 835 on direction To 
+Mt Barker
+2021-06-29 18:09:16,847:INFO:fetched data for 835 on direction To 
+Lobethal
+2021-06-29 18:09:17,261:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 835A
+2021-06-29 18:09:17,262:INFO:fetched data for 835A on direction To 
+
+2021-06-29 18:09:17,264:INFO:fetched data for 835A on direction To 
+Mt Barker
+2021-06-29 18:09:17,763:INFO:fetched data for 837 on direction To 
+Mt Barker
+2021-06-29 18:09:17,765:INFO:fetched data for 837 on direction To 
+Nairne
+2021-06-29 18:09:18,143:INFO:fetched data for 838 on direction To 
+Mt Barker - East
+2021-06-29 18:09:18,144:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 838
+2021-06-29 18:09:18,144:INFO:fetched data for 838 on direction To 
+
+2021-06-29 18:09:18,553:INFO:fetched data for 838H on direction To 
+Mt Barker
+2021-06-29 18:09:18,554:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 838H
+2021-06-29 18:09:18,554:INFO:fetched data for 838H on direction To 
+
+2021-06-29 18:09:18,975:INFO:fetched data for 839 on direction To 
+Mt Barker - West
+2021-06-29 18:09:18,977:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 839
+2021-06-29 18:09:18,977:INFO:fetched data for 839 on direction To 
+
+2021-06-29 18:09:19,349:INFO:fetched data for 839R on direction To 
+Mt Barker
+2021-06-29 18:09:19,351:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 839R
+2021-06-29 18:09:19,351:INFO:fetched data for 839R on direction To 
+
+2021-06-29 18:09:19,795:INFO:fetched data for 840X on direction To 
+City
+2021-06-29 18:09:19,797:INFO:fetched data for 840X on direction To 
+Mt Barker
+2021-06-29 18:09:20,223:INFO:fetched data for 841F on direction To 
+City
+2021-06-29 18:09:20,228:INFO:fetched data for 841F on direction To 
+Nairne
+2021-06-29 18:09:20,812:INFO:fetched data for 842X on direction To 
+City
+2021-06-29 18:09:20,813:INFO:fetched data for 842X on direction To 
+Nairne
+2021-06-29 18:09:21,326:INFO:fetched data for 850 on direction To 
+Aldgate
+2021-06-29 18:09:21,328:INFO:fetched data for 850 on direction To 
+Macclesfield
+2021-06-29 18:09:21,735:INFO:fetched data for 852 on direction To 
+Mt Barker
+2021-06-29 18:09:21,737:INFO:fetched data for 852 on direction To 
+Strathalbyn
+2021-06-29 18:09:22,283:INFO:fetched data for 852L on direction To 
+Cornerstone College
+2021-06-29 18:09:22,286:INFO:fetched data for 852L on direction To 
+Langhorne Creek
+2021-06-29 18:09:22,753:INFO:fetched data for 853 on direction To 
+St Francis De Sales
+2021-06-29 18:09:22,754:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 853
+2021-06-29 18:09:22,754:INFO:fetched data for 853 on direction To 
+
+2021-06-29 18:09:23,182:INFO:fetched data for 860F on direction To 
+City
+2021-06-29 18:09:23,187:INFO:fetched data for 860F on direction To 
+Mt Barker
+2021-06-29 18:09:23,568:INFO:fetched data for 861 on direction To 
+City
+2021-06-29 18:09:23,570:INFO:fetched data for 861 on direction To 
+Glen Osmond
+2021-06-29 18:09:24,090:INFO:fetched data for 863 on direction To 
+City
+2021-06-29 18:09:24,093:INFO:fetched data for 863 on direction To 
+Aldgate
+2021-06-29 18:09:24,495:INFO:fetched data for 863F on direction To 
+City
+2021-06-29 18:09:24,497:INFO:fetched data for 863F on direction To 
+Aldgate
+2021-06-29 18:09:24,934:INFO:fetched data for 864 on direction To 
+City
+2021-06-29 18:09:24,939:INFO:fetched data for 864 on direction To 
+Mt Barker
+2021-06-29 18:09:25,444:INFO:fetched data for 864F on direction To 
+City
+2021-06-29 18:09:25,449:INFO:fetched data for 864F on direction To 
+Mt Barker
+2021-06-29 18:09:25,937:INFO:fetched data for 864H on direction To 
+Heathfield High School
+2021-06-29 18:09:25,938:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 864H
+2021-06-29 18:09:25,938:INFO:fetched data for 864H on direction To 
+
+2021-06-29 18:09:26,353:INFO:fetched data for 865 on direction To 
+City
+2021-06-29 18:09:26,358:INFO:fetched data for 865 on direction To 
+Aldgate
+2021-06-29 18:09:26,760:INFO:fetched data for 865C on direction To 
+Crafers
+2021-06-29 18:09:26,761:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 865C
+2021-06-29 18:09:26,761:INFO:fetched data for 865C on direction To 
+
+2021-06-29 18:09:27,164:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 865S
+2021-06-29 18:09:27,164:INFO:fetched data for 865S on direction To 
+
+2021-06-29 18:09:27,166:INFO:fetched data for 865S on direction To 
+Stirling
+2021-06-29 18:09:27,573:INFO:fetched data for 866 on direction To 
+Crafers
+2021-06-29 18:09:27,576:INFO:fetched data for 866 on direction To 
+Stirling
+2021-06-29 18:09:28,077:INFO:fetched data for 866A on direction To 
+Crafers
+2021-06-29 18:09:28,079:INFO:fetched data for 866A on direction To 
+Stirling
+2021-06-29 18:09:28,589:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 866R
+2021-06-29 18:09:28,589:INFO:fetched data for 866R on direction To 
+
+2021-06-29 18:09:28,592:INFO:fetched data for 866R on direction To 
+Stirling
+2021-06-29 18:09:29,004:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 870
+2021-06-29 18:09:29,004:INFO:fetched data for 870 on direction To 
+
+2021-06-29 18:09:29,005:INFO:fetched data for 870 on direction To 
+City
+2021-06-29 18:09:29,462:INFO:fetched data for 871 on direction To 
+Glenunga
+2021-06-29 18:09:29,468:INFO:fetched data for 871 on direction To 
+Aldgate
+2021-06-29 18:09:29,830:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 872
+2021-06-29 18:09:29,830:INFO:fetched data for 872 on direction To 
+
+2021-06-29 18:09:29,833:INFO:fetched data for 872 on direction To 
+Carey Gully
+2021-06-29 18:09:30,235:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 873
+2021-06-29 18:09:30,235:INFO:fetched data for 873 on direction To 
+
+2021-06-29 18:09:30,237:INFO:fetched data for 873 on direction To 
+Mt Barker Park N Ride
+2021-06-29 18:09:30,643:INFO:fetched data for 875 on direction To 
+Heathfield High School
+2021-06-29 18:09:30,645:INFO:fetched data for 875 on direction To 
+Stirling
+2021-06-29 18:09:31,055:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 875T
+2021-06-29 18:09:31,055:INFO:fetched data for 875T on direction To 
+
+2021-06-29 18:09:31,058:INFO:fetched data for 875T on direction To 
+Summertown
+2021-06-29 18:09:31,469:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 877
+2021-06-29 18:09:31,469:INFO:fetched data for 877 on direction To 
+
+2021-06-29 18:09:31,471:INFO:fetched data for 877 on direction To 
+Mt Barker Park N Ride
+2021-06-29 18:09:31,987:INFO:fetched data for 878 on direction To 
+Heathfield High School
+2021-06-29 18:09:31,990:INFO:fetched data for 878 on direction To 
+Nairne
+2021-06-29 18:09:32,497:INFO:fetched data for 879 on direction To 
+Heathfield High School
+2021-06-29 18:09:32,499:INFO:fetched data for 879 on direction To 
+Woodside
+2021-06-29 18:09:33,006:INFO:fetched data for 880 on direction To 
+Cornerstone College
+2021-06-29 18:09:33,008:INFO:fetched data for 880 on direction To 
+Lobethal
+2021-06-29 18:09:33,409:INFO:fetched data for 881 on direction To 
+Waldorf School
+2021-06-29 18:09:33,411:INFO:fetched data for 881 on direction To 
+Crafers
+2021-06-29 18:09:33,829:INFO:fetched data for 882 on direction To 
+Concordia College
+2021-06-29 18:09:33,832:INFO:fetched data for 882 on direction To 
+Mt Barker Park N Ride
+2021-06-29 18:09:34,249:INFO:fetched data for 883 on direction To 
+Mitcham Girls High School
+2021-06-29 18:09:34,252:INFO:fetched data for 883 on direction To 
+Aldgate
+2021-06-29 18:09:34,626:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 884
+2021-06-29 18:09:34,626:INFO:fetched data for 884 on direction To 
+
+2021-06-29 18:09:34,628:INFO:fetched data for 884 on direction To 
+Aldgate
+2021-06-29 18:09:35,162:INFO:fetched data for 885 on direction To 
+Pembroke School
+2021-06-29 18:09:35,165:INFO:fetched data for 885 on direction To 
+Verdun Junction
+2021-06-29 18:09:35,571:INFO:fetched data for 886 on direction To 
+Cabra Dominican College
+2021-06-29 18:09:35,575:INFO:fetched data for 886 on direction To 
+Mt Barker
+2021-06-29 18:09:35,981:INFO:fetched data for 887 on direction To 
+Mercedes College
+2021-06-29 18:09:35,984:INFO:fetched data for 887 on direction To 
+Mt Barker Park N Ride
+2021-06-29 18:09:36,430:INFO:fetched data for 888 on direction To 
+Concordia College
+2021-06-29 18:09:36,433:INFO:fetched data for 888 on direction To 
+Verdun Junction
+2021-06-29 18:09:36,894:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 889
+2021-06-29 18:09:36,895:INFO:fetched data for 889 on direction To 
+
+2021-06-29 18:09:36,898:INFO:fetched data for 889 on direction To 
+City
+2021-06-29 18:09:37,250:INFO:fetched data for 890 on direction To 
+Oakbank Area School
+2021-06-29 18:09:37,253:INFO:fetched data for 890 on direction To 
+Nairne
+2021-06-29 18:09:37,657:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 892
+2021-06-29 18:09:37,657:INFO:fetched data for 892 on direction To 
+
+2021-06-29 18:09:37,661:INFO:fetched data for 892 on direction To 
+Aldgate
+2021-06-29 18:09:38,124:INFO:fetched data for 893 on direction To 
+Blackwood Station
+2021-06-29 18:09:38,125:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 893
+2021-06-29 18:09:38,126:INFO:fetched data for 893 on direction To 
+
+2021-06-29 18:09:38,641:INFO:fetched data for 894 on direction To 
+Blackwood Station
+2021-06-29 18:09:38,645:INFO:fetched data for 894 on direction To 
+Aldgate
+2021-06-29 18:09:39,138:INFO:fetched data for 894H on direction To 
+Blackwood Station
+2021-06-29 18:09:39,141:INFO:fetched data for 894H on direction To 
+Aldgate
+2021-06-29 18:09:39,567:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 894S
+2021-06-29 18:09:39,567:INFO:fetched data for 894S on direction To 
+
+2021-06-29 18:09:39,569:INFO:fetched data for 894S on direction To 
+Stirling
+2021-06-29 18:09:39,976:INFO:fetched data for 900 on direction To 
+Salisbury
+2021-06-29 18:09:39,980:INFO:fetched data for 900 on direction To 
+Elizabeth Interchange
+2021-06-29 18:09:40,371:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 920
+2021-06-29 18:09:40,371:INFO:fetched data for 920 on direction To 
+
+2021-06-29 18:09:40,372:INFO:fetched data for 920 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:09:40,881:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 921
+2021-06-29 18:09:40,881:INFO:fetched data for 921 on direction To 
+
+2021-06-29 18:09:40,883:INFO:fetched data for 921 on direction To 
+Golden Grove Interchange
+2021-06-29 18:09:41,322:INFO:fetched data for 922 on direction To 
+Loreto College
+2021-06-29 18:09:41,328:INFO:fetched data for 922 on direction To 
+Surrey Downs
+2021-06-29 18:09:41,808:INFO:fetched data for 924 on direction To 
+Modbury High School
+2021-06-29 18:09:41,810:INFO:fetched data for 924 on direction To 
+Para Hills
+2021-06-29 18:09:42,203:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 926
+2021-06-29 18:09:42,203:INFO:fetched data for 926 on direction To 
+
+2021-06-29 18:09:42,205:INFO:fetched data for 926 on direction To 
+Para Hills
+2021-06-29 18:09:42,637:INFO:fetched data for 928 on direction To 
+St Ignatius College
+2021-06-29 18:09:42,639:INFO:fetched data for 928 on direction To 
+City
+2021-06-29 18:09:43,036:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 929
+2021-06-29 18:09:43,036:INFO:fetched data for 929 on direction To 
+
+2021-06-29 18:09:43,038:INFO:fetched data for 929 on direction To 
+Fairview Park
+2021-06-29 18:09:43,426:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 930
+2021-06-29 18:09:43,426:INFO:fetched data for 930 on direction To 
+
+2021-06-29 18:09:43,428:INFO:fetched data for 930 on direction To 
+Mawson Lakes UniSA Campus
+2021-06-29 18:09:43,900:INFO:fetched data for 933 on direction To 
+Elms Village
+2021-06-29 18:09:43,901:INFO:fetched data for 933 on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:09:44,263:INFO:fetched data for 941 on direction To 
+Roma Mitchell Secondary College
+2021-06-29 18:09:44,265:INFO:fetched data for 941 on direction To 
+Mansfield Park
+2021-06-29 18:09:44,768:INFO:fetched data for 942 on direction To 
+Roma Mitchell Secondary College
+2021-06-29 18:09:44,770:INFO:fetched data for 942 on direction To 
+Blair Athol
+2021-06-29 18:09:45,195:INFO:fetched data for 949 on direction To 
+Adelaide Secondary School of English
+2021-06-29 18:09:45,202:INFO:fetched data for 949 on direction To 
+Elizabeth
+2021-06-29 18:09:45,590:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 950
+2021-06-29 18:09:45,590:INFO:fetched data for 950 on direction To 
+
+2021-06-29 18:09:45,592:INFO:fetched data for 950 on direction To 
+Flagstaff Rd
+2021-06-29 18:09:45,999:INFO:fetched data for 951 on direction To 
+Adelaide Secondary College English
+2021-06-29 18:09:46,000:INFO:fetched data for 951 on direction To 
+City
+2021-06-29 18:09:46,414:INFO:fetched data for 952 on direction To 
+Blackwood High School
+2021-06-29 18:09:46,416:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 952
+2021-06-29 18:09:46,416:INFO:fetched data for 952 on direction To 
+
+2021-06-29 18:09:46,815:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 953
+2021-06-29 18:09:46,815:INFO:fetched data for 953 on direction To 
+
+2021-06-29 18:09:46,818:INFO:fetched data for 953 on direction To 
+Aberfoyle Hub
+2021-06-29 18:09:47,336:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 954
+2021-06-29 18:09:47,337:INFO:fetched data for 954 on direction To 
+
+2021-06-29 18:09:47,339:INFO:fetched data for 954 on direction To 
+Belair Rd 12
+2021-06-29 18:09:47,738:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 955
+2021-06-29 18:09:47,738:INFO:fetched data for 955 on direction To 
+
+2021-06-29 18:09:47,740:INFO:fetched data for 955 on direction To 
+Flinders Medical Centre
+2021-06-29 18:09:48,161:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 956
+2021-06-29 18:09:48,161:INFO:fetched data for 956 on direction To 
+
+2021-06-29 18:09:48,164:INFO:fetched data for 956 on direction To 
+Flagstaff Hill Rd 30
+2021-06-29 18:09:48,525:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 957
+2021-06-29 18:09:48,525:INFO:fetched data for 957 on direction To 
+
+2021-06-29 18:09:48,527:INFO:fetched data for 957 on direction To 
+36 Cedar Avenue
+2021-06-29 18:09:48,971:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 958
+2021-06-29 18:09:48,971:INFO:fetched data for 958 on direction To 
+
+2021-06-29 18:09:48,973:INFO:fetched data for 958 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:49,373:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 959
+2021-06-29 18:09:49,374:INFO:fetched data for 959 on direction To 
+
+2021-06-29 18:09:49,375:INFO:fetched data for 959 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:49,900:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 960
+2021-06-29 18:09:49,900:INFO:fetched data for 960 on direction To 
+
+2021-06-29 18:09:49,902:INFO:fetched data for 960 on direction To 
+Glenelg
+2021-06-29 18:09:50,307:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 961
+2021-06-29 18:09:50,307:INFO:fetched data for 961 on direction To 
+
+2021-06-29 18:09:50,310:INFO:fetched data for 961 on direction To 
+Aberfoyle Park
+2021-06-29 18:09:50,715:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 962
+2021-06-29 18:09:50,715:INFO:fetched data for 962 on direction To 
+
+2021-06-29 18:09:50,717:INFO:fetched data for 962 on direction To 
+Walkerville
+2021-06-29 18:09:51,123:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 963
+2021-06-29 18:09:51,123:INFO:fetched data for 963 on direction To 
+
+2021-06-29 18:09:51,126:INFO:fetched data for 963 on direction To 
+Walkerville
+2021-06-29 18:09:51,663:INFO:fetched data for 966 on direction To 
+Mercedes College
+2021-06-29 18:09:51,664:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 966
+2021-06-29 18:09:51,665:INFO:fetched data for 966 on direction To 
+
+2021-06-29 18:09:52,149:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 967
+2021-06-29 18:09:52,149:INFO:fetched data for 967 on direction To 
+
+2021-06-29 18:09:52,151:INFO:fetched data for 967 on direction To 
+Glenelg
+2021-06-29 18:09:52,599:INFO:fetched data for 968 on direction To 
+Mercedes College
+2021-06-29 18:09:52,600:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 968
+2021-06-29 18:09:52,600:INFO:fetched data for 968 on direction To 
+
+2021-06-29 18:09:52,967:INFO:fetched data for 969 on direction To 
+ Unley High School
+2021-06-29 18:09:52,968:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 969
+2021-06-29 18:09:52,968:INFO:fetched data for 969 on direction To 
+
+2021-06-29 18:09:53,477:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 970
+2021-06-29 18:09:53,477:INFO:fetched data for 970 on direction To 
+
+2021-06-29 18:09:53,480:INFO:fetched data for 970 on direction To 
+Glenelg Interchange
+2021-06-29 18:09:53,893:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 971
+2021-06-29 18:09:53,893:INFO:fetched data for 971 on direction To 
+
+2021-06-29 18:09:53,894:INFO:fetched data for 971 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:54,297:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 972
+2021-06-29 18:09:54,297:INFO:fetched data for 972 on direction To 
+
+2021-06-29 18:09:54,299:INFO:fetched data for 972 on direction To 
+St Marys
+2021-06-29 18:09:54,700:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 973
+2021-06-29 18:09:54,700:INFO:fetched data for 973 on direction To 
+
+2021-06-29 18:09:54,702:INFO:fetched data for 973 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:55,109:INFO:fetched data for 974 on direction To 
+Roma Mitchell Secondary College
+2021-06-29 18:09:55,112:INFO:fetched data for 974 on direction To 
+City
+2021-06-29 18:09:55,485:INFO:fetched data for 975 on direction To 
+Roma Mitchell Secondary School
+2021-06-29 18:09:55,487:INFO:fetched data for 975 on direction To 
+City
+2021-06-29 18:09:55,820:INFO:fetched data for 976 on direction To 
+Sacred Heart Middle School
+2021-06-29 18:09:55,821:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 976
+2021-06-29 18:09:55,821:INFO:fetched data for 976 on direction To 
+
+2021-06-29 18:09:56,253:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 977
+2021-06-29 18:09:56,253:INFO:fetched data for 977 on direction To 
+
+2021-06-29 18:09:56,257:INFO:fetched data for 977 on direction To 
+Flinders Medical Centre
+2021-06-29 18:09:56,601:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 978
+2021-06-29 18:09:56,601:INFO:fetched data for 978 on direction To 
+
+2021-06-29 18:09:56,602:INFO:fetched data for 978 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:56,980:INFO:fetched data for 979 on direction To 
+Sacred Heart Senior College
+2021-06-29 18:09:56,981:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 979
+2021-06-29 18:09:56,981:INFO:fetched data for 979 on direction To 
+
+2021-06-29 18:09:57,448:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 980
+2021-06-29 18:09:57,448:INFO:fetched data for 980 on direction To 
+
+2021-06-29 18:09:57,450:INFO:fetched data for 980 on direction To 
+Marion Centre Interchange
+2021-06-29 18:09:58,025:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 981
+2021-06-29 18:09:58,026:INFO:fetched data for 981 on direction To 
+
+2021-06-29 18:09:58,027:INFO:fetched data for 981 on direction To 
+Flinders Medical Centre
+2021-06-29 18:09:58,487:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 982
+2021-06-29 18:09:58,487:INFO:fetched data for 982 on direction To 
+
+2021-06-29 18:09:58,489:INFO:fetched data for 982 on direction To 
+St Marys
+2021-06-29 18:09:58,925:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 984
+2021-06-29 18:09:58,925:INFO:fetched data for 984 on direction To 
+
+2021-06-29 18:09:58,927:INFO:fetched data for 984 on direction To 
+Marino
+2021-06-29 18:09:59,471:INFO:fetched data for 985 on direction To 
+City
+2021-06-29 18:09:59,472:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 985
+2021-06-29 18:09:59,472:INFO:fetched data for 985 on direction To 
+
+2021-06-29 18:09:59,936:INFO:fetched data for 986 on direction To 
+Unley High School
+2021-06-29 18:09:59,937:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 986
+2021-06-29 18:09:59,937:INFO:fetched data for 986 on direction To 
+
+2021-06-29 18:10:00,354:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 987
+2021-06-29 18:10:00,354:INFO:fetched data for 987 on direction To 
+
+2021-06-29 18:10:00,356:INFO:fetched data for 987 on direction To 
+Plympton
+2021-06-29 18:10:00,860:INFO:fetched data for 988 on direction To 
+Mercedes College
+2021-06-29 18:10:00,862:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 988
+2021-06-29 18:10:00,862:INFO:fetched data for 988 on direction To 
+
+2021-06-29 18:10:01,512:INFO:fetched data for 989 on direction To 
+Urrbrae Agricultural High School
+2021-06-29 18:10:01,517:INFO:fetched data for 989 on direction To 
+Aberfoyle Hub Centre Interchange
+2021-06-29 18:10:02,175:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 98A
+2021-06-29 18:10:02,176:INFO:fetched data for 98A on direction To 
+
+2021-06-29 18:10:02,178:INFO:fetched data for 98A on direction To 
+City & North Adelaide Loop (Anti-Clockwise)
+2021-06-29 18:10:02,579:INFO:fetched data for 98C on direction To 
+City & North Adelaide Loop (clockwise)
+2021-06-29 18:10:02,580:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 98C
+2021-06-29 18:10:02,580:INFO:fetched data for 98C on direction To 
+
+2021-06-29 18:10:02,912:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 990
+2021-06-29 18:10:02,912:INFO:fetched data for 990 on direction To 
+
+2021-06-29 18:10:02,914:INFO:fetched data for 990 on direction To 
+Plympton
+2021-06-29 18:10:03,564:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 991
+2021-06-29 18:10:03,564:INFO:fetched data for 991 on direction To 
+
+2021-06-29 18:10:03,567:INFO:fetched data for 991 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:04,099:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 992
+2021-06-29 18:10:04,099:INFO:fetched data for 992 on direction To 
+
+2021-06-29 18:10:04,102:INFO:fetched data for 992 on direction To 
+Walkerville
+2021-06-29 18:10:04,729:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 993
+2021-06-29 18:10:04,729:INFO:fetched data for 993 on direction To 
+
+2021-06-29 18:10:04,732:INFO:fetched data for 993 on direction To 
+Coromandel Valley
+2021-06-29 18:10:05,212:INFO:fetched data for 994 on direction To 
+Woodville Gardens School
+2021-06-29 18:10:05,214:INFO:fetched data for 994 on direction To 
+Arndale Centre Interchange
+2021-06-29 18:10:05,609:INFO:fetched data for 995 on direction To 
+Marryatville High School
+2021-06-29 18:10:05,611:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 995
+2021-06-29 18:10:05,611:INFO:fetched data for 995 on direction To 
+
+2021-06-29 18:10:06,001:INFO:fetched data for 996 on direction To 
+Blackwood High School
+2021-06-29 18:10:06,003:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 996
+2021-06-29 18:10:06,003:INFO:fetched data for 996 on direction To 
+
+2021-06-29 18:10:06,405:INFO:fetched data for 997 on direction To 
+Cabra College (bus continues as G30F from Blackwood Station)
+2021-06-29 18:10:06,407:INFO:fetched data for 997 on direction To 
+Craigburn Farm
+2021-06-29 18:10:06,935:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 99A
+2021-06-29 18:10:06,935:INFO:fetched data for 99A on direction To 
+
+2021-06-29 18:10:06,936:INFO:fetched data for 99A on direction To 
+City Loop (Anti-Clockwise)
+2021-06-29 18:10:07,377:INFO:fetched data for 99C on direction To 
+City Loop (clockwise)
+2021-06-29 18:10:07,378:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: 99C
+2021-06-29 18:10:07,379:INFO:fetched data for 99C on direction To 
+
+2021-06-29 18:10:07,775:INFO:fetched data for AO1 on direction To 
+Adelaide Oval
+2021-06-29 18:10:07,777:INFO:fetched data for AO1 on direction To 
+Greenwith
+2021-06-29 18:10:08,175:INFO:fetched data for AO10 on direction To 
+Adelaide Oval
+2021-06-29 18:10:08,178:INFO:fetched data for AO10 on direction To 
+Aldgate
+2021-06-29 18:10:08,610:INFO:fetched data for AO11 on direction To 
+Adelaide Oval
+2021-06-29 18:10:08,612:INFO:fetched data for AO11 on direction To 
+Newton
+2021-06-29 18:10:09,066:INFO:fetched data for AO12 on direction To 
+Adelaide Oval
+2021-06-29 18:10:09,071:INFO:fetched data for AO12 on direction To 
+Athelstone
+2021-06-29 18:10:09,478:INFO:fetched data for AO13 on direction To 
+Adelaide Oval
+2021-06-29 18:10:09,480:INFO:fetched data for AO13 on direction To 
+Burnside
+2021-06-29 18:10:09,971:INFO:fetched data for AO14 on direction To 
+Adelaide Oval
+2021-06-29 18:10:09,973:INFO:fetched data for AO14 on direction To 
+Rosslyn Park
+2021-06-29 18:10:10,350:INFO:fetched data for AO15 on direction To 
+Adelaide Oval
+2021-06-29 18:10:10,353:INFO:fetched data for AO15 on direction To 
+Mawson Interchange
+2021-06-29 18:10:10,898:INFO:fetched data for AO16 on direction To 
+Adelaide Oval
+2021-06-29 18:10:10,901:INFO:fetched data for AO16 on direction To 
+Rosewater
+2021-06-29 18:10:11,375:INFO:fetched data for AO17 on direction To 
+Adelaide Oval
+2021-06-29 18:10:11,379:INFO:fetched data for AO17 on direction To 
+Semaphore
+2021-06-29 18:10:11,919:INFO:fetched data for AO18 on direction To 
+Adelaide Oval
+2021-06-29 18:10:11,922:INFO:fetched data for AO18 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:10:12,328:INFO:fetched data for AO19 on direction To 
+Adelaide Oval
+2021-06-29 18:10:12,331:INFO:fetched data for AO19 on direction To 
+Henley Beach
+2021-06-29 18:10:12,837:INFO:fetched data for AO2 on direction To 
+Adelaide Oval
+2021-06-29 18:10:12,839:INFO:fetched data for AO2 on direction To 
+St Agnes Depot
+2021-06-29 18:10:13,360:INFO:fetched data for AO20 on direction To 
+Adelaide Oval
+2021-06-29 18:10:13,362:INFO:fetched data for AO20 on direction To 
+Blair Athol
+2021-06-29 18:10:13,974:INFO:fetched data for AO21 on direction To 
+Adelaide Oval
+2021-06-29 18:10:13,979:INFO:fetched data for AO21 on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:14,488:INFO:fetched data for AO22 on direction To 
+Adelaide Oval
+2021-06-29 18:10:14,491:INFO:fetched data for AO22 on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:14,982:INFO:fetched data for AO23 on direction To 
+Adelaide Oval
+2021-06-29 18:10:14,984:INFO:fetched data for AO23 on direction To 
+Morphettville Depot
+2021-06-29 18:10:15,588:INFO:fetched data for AO24 on direction To 
+Adelaide Oval
+2021-06-29 18:10:15,590:INFO:fetched data for AO24 on direction To 
+Mitcham Square
+2021-06-29 18:10:16,116:INFO:fetched data for AO25 on direction To 
+Adelaide Oval
+2021-06-29 18:10:16,118:INFO:fetched data for AO25 on direction To 
+Mitcham Square
+2021-06-29 18:10:16,634:INFO:fetched data for AO26 on direction To 
+Adelaide Oval
+2021-06-29 18:10:16,637:INFO:fetched data for AO26 on direction To 
+Glenelg
+2021-06-29 18:10:16,999:INFO:fetched data for AO29 on direction To 
+Adelaide Oval
+2021-06-29 18:10:17,002:INFO:fetched data for AO29 on direction To 
+Ingle Farm
+2021-06-29 18:10:17,593:INFO:fetched data for AO3 on direction To 
+Adelaide Oval
+2021-06-29 18:10:17,595:INFO:fetched data for AO3 on direction To 
+Northgate
+2021-06-29 18:10:18,076:INFO:fetched data for AO31 on direction To 
+Adelaide Oval
+2021-06-29 18:10:18,078:INFO:fetched data for AO31 on direction To 
+Morphettville Depot
+2021-06-29 18:10:18,658:INFO:fetched data for AO4 on direction To 
+Adelaide Oval
+2021-06-29 18:10:18,661:INFO:fetched data for AO4 on direction To 
+Hope Valley
+2021-06-29 18:10:19,190:INFO:fetched data for AO5 on direction To 
+Adelaide Oval
+2021-06-29 18:10:19,193:INFO:fetched data for AO5 on direction To 
+Salisbury East
+2021-06-29 18:10:19,596:INFO:fetched data for AO8 on direction To 
+Adelaide Oval
+2021-06-29 18:10:19,601:INFO:fetched data for AO8 on direction To 
+Hallett Cove Shops
+2021-06-29 18:10:20,014:INFO:fetched data for AOX15 on direction To 
+Adelaide Oval
+2021-06-29 18:10:20,016:INFO:fetched data for AOX15 on direction To 
+Elizabeth Shopping Centre
+2021-06-29 18:10:20,506:INFO:fetched data for AOX6 on direction To 
+Adelaide Oval
+2021-06-29 18:10:20,510:INFO:fetched data for AOX6 on direction To 
+Woodcroft Community Centre
+2021-06-29 18:10:21,030:INFO:fetched data for AOX7 on direction To 
+Adelaide Oval
+2021-06-29 18:10:21,034:INFO:fetched data for AOX7 on direction To 
+South Adelaide Footy Club
+2021-06-29 18:10:21,548:INFO:fetched data for AOX9 on direction To 
+Adelaide Oval
+2021-06-29 18:10:21,552:INFO:fetched data for AOX9 on direction To 
+Mt Barker
+2021-06-29 18:10:22,145:INFO:fetched data for B1 on direction To 
+City
+2021-06-29 18:10:22,146:INFO:fetched data for B1 on direction To 
+Mitcham
+2021-06-29 18:10:22,659:INFO:fetched data for C1 on direction To 
+City
+2021-06-29 18:10:22,660:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: C1
+2021-06-29 18:10:22,661:INFO:fetched data for C1 on direction To 
+
+2021-06-29 18:10:23,160:INFO:fetched data for C1X on direction To 
+City
+2021-06-29 18:10:23,162:INFO:fetched data for C1X on direction To 
+Golden Grove Interchange
+2021-06-29 18:10:23,715:INFO:fetched data for C2 on direction To 
+City
+2021-06-29 18:10:23,717:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: C2
+2021-06-29 18:10:23,717:INFO:fetched data for C2 on direction To 
+
+2021-06-29 18:10:24,311:INFO:fetched data for C2X on direction To 
+City
+2021-06-29 18:10:24,313:INFO:fetched data for C2X on direction To 
+Greenwith
+2021-06-29 18:10:24,747:INFO:fetched data for G1 on direction To 
+City
+2021-06-29 18:10:24,749:INFO:fetched data for G1 on direction To 
+Grange
+2021-06-29 18:10:25,242:INFO:fetched data for G10 on direction To 
+Blair Athol
+2021-06-29 18:10:25,247:INFO:fetched data for G10 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:25,683:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: G10A
+2021-06-29 18:10:25,683:INFO:fetched data for G10A on direction To 
+
+2021-06-29 18:10:25,686:INFO:fetched data for G10A on direction To 
+Colonel Light Gardens
+2021-06-29 18:10:26,158:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: G10B
+2021-06-29 18:10:26,158:INFO:fetched data for G10B on direction To 
+
+2021-06-29 18:10:26,161:INFO:fetched data for G10B on direction To 
+City
+2021-06-29 18:10:26,666:INFO:fetched data for G10C on direction To 
+City (from Bedford Park)
+2021-06-29 18:10:26,668:INFO:fetched data for G10C on direction To 
+City (from Blair Athol)
+2021-06-29 18:10:27,192:INFO:fetched data for G20 on direction To 
+City
+2021-06-29 18:10:27,197:INFO:fetched data for G20 on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:27,709:INFO:fetched data for G20F on direction To 
+City
+2021-06-29 18:10:27,715:INFO:fetched data for G20F on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:27,845:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: G20X
+2021-06-29 18:10:27,846:INFO:fetched data for G20X on direction To 
+
+2021-06-29 18:10:27,848:INFO:fetched data for G20X on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:28,417:INFO:fetched data for G21 on direction To 
+City
+2021-06-29 18:10:28,422:INFO:fetched data for G21 on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:28,944:INFO:fetched data for G21F on direction To 
+City
+2021-06-29 18:10:28,949:INFO:fetched data for G21F on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:29,925:INFO:fetched data for G21X on direction To 
+City
+2021-06-29 18:10:29,928:INFO:fetched data for G21X on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:30,554:INFO:fetched data for G22X on direction To 
+City
+2021-06-29 18:10:30,556:INFO:fetched data for G22X on direction To 
+Aberfoyle Park
+2021-06-29 18:10:31,076:INFO:fetched data for G30F on direction To 
+City
+2021-06-29 18:10:31,081:INFO:fetched data for G30F on direction To 
+Blackwood Interchange
+2021-06-29 18:10:31,433:INFO:fetched data for G40 on direction To 
+Flinders University
+2021-06-29 18:10:31,436:INFO:fetched data for G40 on direction To 
+Golden Grove Interchange
+2021-06-29 18:10:31,983:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: G40M
+2021-06-29 18:10:31,983:INFO:fetched data for G40M on direction To 
+
+2021-06-29 18:10:31,984:INFO:fetched data for G40M on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:10:32,400:INFO:fetched data for GA1 on direction To 
+City
+2021-06-29 18:10:32,402:INFO:fetched data for GA1 on direction To 
+Gawler
+2021-06-29 18:10:32,842:INFO:fetched data for GA2 on direction To 
+City
+2021-06-29 18:10:32,844:INFO:fetched data for GA2 on direction To 
+Gawler
+2021-06-29 18:10:33,200:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: GA2S
+2021-06-29 18:10:33,200:INFO:fetched data for GA2S on direction To 
+
+2021-06-29 18:10:33,201:INFO:fetched data for GA2S on direction To 
+Salisbury
+2021-06-29 18:10:33,617:INFO:fetched data for GA3 on direction To 
+City
+2021-06-29 18:10:33,618:INFO:fetched data for GA3 on direction To 
+Smithfield
+2021-06-29 18:10:34,123:INFO:fetched data for GA4 on direction To 
+City
+2021-06-29 18:10:34,125:INFO:fetched data for GA4 on direction To 
+Gawler
+2021-06-29 18:10:34,641:INFO:fetched data for H1 on direction To 
+City
+2021-06-29 18:10:34,644:INFO:fetched data for H1 on direction To 
+Outer Harbor
+2021-06-29 18:10:35,085:INFO:fetched data for H20 on direction To 
+Glenelg Interchange
+2021-06-29 18:10:35,092:INFO:fetched data for H20 on direction To 
+Paradise Interchange
+2021-06-29 18:10:35,891:INFO:fetched data for H20C on direction To 
+City (from Paradise)
+2021-06-29 18:10:35,895:INFO:fetched data for H20C on direction To 
+City (from Glenelg)
+2021-06-29 18:10:36,393:INFO:fetched data for H20R on direction To 
+Richmond
+2021-06-29 18:10:36,395:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: H20R
+2021-06-29 18:10:36,395:INFO:fetched data for H20R on direction To 
+
+2021-06-29 18:10:36,909:INFO:fetched data for H21 on direction To 
+City
+2021-06-29 18:10:36,912:INFO:fetched data for H21 on direction To 
+Paradise Interchange
+2021-06-29 18:10:37,428:INFO:fetched data for H22 on direction To 
+Wattle Park
+2021-06-29 18:10:37,432:INFO:fetched data for H22 on direction To 
+Henley Beach South
+2021-06-29 18:10:37,910:INFO:fetched data for H22C on direction To 
+City (from Henley Beach South)
+2021-06-29 18:10:37,912:INFO:fetched data for H22C on direction To 
+City (from Wattle Park)
+2021-06-29 18:10:38,322:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: H22L
+2021-06-29 18:10:38,323:INFO:fetched data for H22L on direction To 
+
+2021-06-29 18:10:38,325:INFO:fetched data for H22L on direction To 
+Lockleys
+2021-06-29 18:10:38,895:INFO:fetched data for H23 on direction To 
+City
+2021-06-29 18:10:38,898:INFO:fetched data for H23 on direction To 
+Auldana
+2021-06-29 18:10:39,355:INFO:fetched data for H24 on direction To 
+City
+2021-06-29 18:10:39,357:INFO:fetched data for H24 on direction To 
+Auldana
+2021-06-29 18:10:39,713:INFO:fetched data for H30 on direction To 
+West Lakes Interchange
+2021-06-29 18:10:39,721:INFO:fetched data for H30 on direction To 
+Paradise Interchange
+2021-06-29 18:10:40,320:INFO:fetched data for H30C on direction To 
+City (from Paradise Interchange)
+2021-06-29 18:10:40,325:INFO:fetched data for H30C on direction To 
+City (from West Lakes Interchange)
+2021-06-29 18:10:40,904:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: H30S
+2021-06-29 18:10:40,904:INFO:fetched data for H30S on direction To 
+
+2021-06-29 18:10:40,908:INFO:fetched data for H30S on direction To 
+Newton
+2021-06-29 18:10:41,503:INFO:fetched data for H32 on direction To 
+City
+2021-06-29 18:10:41,506:INFO:fetched data for H32 on direction To 
+Henley Beach South
+2021-06-29 18:10:41,944:INFO:fetched data for H33 on direction To 
+Henley Beach
+2021-06-29 18:10:41,949:INFO:fetched data for H33 on direction To 
+Rostrevor
+2021-06-29 18:10:42,420:INFO:fetched data for H33C on direction To 
+City (from Rostrevor)
+2021-06-29 18:10:42,423:INFO:fetched data for H33C on direction To 
+City (from Henley Beach)
+2021-06-29 18:10:42,929:INFO:fetched data for HL1 on direction To 
+Windsor Ave
+2021-06-29 18:10:42,930:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: HL1
+2021-06-29 18:10:42,930:INFO:fetched data for HL1 on direction To 
+
+2021-06-29 18:10:43,452:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: HL2
+2021-06-29 18:10:43,452:INFO:fetched data for HL2 on direction To 
+
+2021-06-29 18:10:43,454:INFO:fetched data for HL2 on direction To 
+Mt Barker Kmart
+2021-06-29 18:10:43,853:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: INDA
+2021-06-29 18:10:43,853:INFO:fetched data for INDA on direction To 
+
+2021-06-29 18:10:43,855:INFO:fetched data for INDA on direction To 
+City
+2021-06-29 18:10:44,264:INFO:fetched data for INDB on direction To 
+Bedford Group
+2021-06-29 18:10:44,265:INFO:fetched data for INDB on direction To 
+City
+2021-06-29 18:10:44,658:INFO:fetched data for INDSTA on direction To 
+Bedford Industries
+2021-06-29 18:10:44,659:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: INDSTA
+2021-06-29 18:10:44,659:INFO:fetched data for INDSTA on direction To 
+
+2021-06-29 18:10:45,088:INFO:fetched data for INDSTB on direction To 
+City
+2021-06-29 18:10:45,090:INFO:fetched data for INDSTB on direction To 
+Royal Society For The Blind
+2021-06-29 18:10:45,571:INFO:fetched data for J1 on direction To 
+Glenelg
+2021-06-29 18:10:45,576:INFO:fetched data for J1 on direction To 
+Elizabeth Interchange
+2021-06-29 18:10:46,224:INFO:fetched data for J1A on direction To 
+Adelaide Airport
+2021-06-29 18:10:46,226:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: J1A
+2021-06-29 18:10:46,226:INFO:fetched data for J1A on direction To 
+
+2021-06-29 18:10:46,935:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: J1G
+2021-06-29 18:10:46,936:INFO:fetched data for J1G on direction To 
+
+2021-06-29 18:10:46,939:INFO:fetched data for J1G on direction To 
+Golden Grove
+2021-06-29 18:10:47,544:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: J1T
+2021-06-29 18:10:47,544:INFO:fetched data for J1T on direction To 
+
+2021-06-29 18:10:47,546:INFO:fetched data for J1T on direction To 
+Tea Tree Plaza
+2021-06-29 18:10:48,147:INFO:fetched data for J2 on direction To 
+Harbour Town
+2021-06-29 18:10:48,153:INFO:fetched data for J2 on direction To 
+Greenwith
+2021-06-29 18:10:48,833:INFO:fetched data for J2G on direction To 
+Glenelg
+2021-06-29 18:10:48,836:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: J2G
+2021-06-29 18:10:48,836:INFO:fetched data for J2G on direction To 
+
+2021-06-29 18:10:49,319:INFO:fetched data for J7 on direction To 
+West Lakes Interchange
+2021-06-29 18:10:49,326:INFO:fetched data for J7 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:49,694:INFO:fetched data for J7M on direction To 
+Camden Park (from Marion)
+2021-06-29 18:10:49,698:INFO:fetched data for J7M on direction To 
+Camden Park (from West Lakes)
+2021-06-29 18:10:50,151:INFO:fetched data for J8 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:10:50,157:INFO:fetched data for J8 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:50,537:INFO:fetched data for M44 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:50,542:INFO:fetched data for M44 on direction To 
+Golden Grove Interchange
+2021-06-29 18:10:51,057:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: M44C
+2021-06-29 18:10:51,057:INFO:fetched data for M44C on direction To 
+
+2021-06-29 18:10:51,060:INFO:fetched data for M44C on direction To 
+City
+2021-06-29 18:10:51,443:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: M44T
+2021-06-29 18:10:51,443:INFO:fetched data for M44T on direction To 
+
+2021-06-29 18:10:51,446:INFO:fetched data for M44T on direction To 
+Tea Tree Plaza Interchange
+2021-06-29 18:10:51,964:INFO:fetched data for N1 on direction To 
+City
+2021-06-29 18:10:51,965:INFO:fetched data for N1 on direction To 
+Golden Grove Interchange
+2021-06-29 18:10:52,577:INFO:fetched data for N10 on direction To 
+City
+2021-06-29 18:10:52,579:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: N10
+2021-06-29 18:10:52,579:INFO:fetched data for N10 on direction To 
+
+2021-06-29 18:10:53,187:INFO:fetched data for N178 on direction To 
+City
+2021-06-29 18:10:53,190:INFO:fetched data for N178 on direction To 
+Newton
+2021-06-29 18:10:53,704:INFO:fetched data for N202 on direction To 
+City
+2021-06-29 18:10:53,708:INFO:fetched data for N202 on direction To 
+Ingle Farm
+2021-06-29 18:10:54,317:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: N21
+2021-06-29 18:10:54,317:INFO:fetched data for N21 on direction To 
+
+2021-06-29 18:10:54,322:INFO:fetched data for N21 on direction To 
+Aberfoyle Hub
+2021-06-29 18:10:54,805:INFO:fetched data for N22 on direction To 
+City
+2021-06-29 18:10:54,807:INFO:fetched data for N22 on direction To 
+Wattle Park
+2021-06-29 18:10:55,315:INFO:fetched data for N224 on direction To 
+City
+2021-06-29 18:10:55,323:INFO:fetched data for N224 on direction To 
+Gawler
+2021-06-29 18:10:55,954:INFO:fetched data for N254 on direction To 
+City
+2021-06-29 18:10:55,959:INFO:fetched data for N254 on direction To 
+Semaphore
+2021-06-29 18:10:56,461:INFO:fetched data for N262 on direction To 
+City
+2021-06-29 18:10:56,466:INFO:fetched data for N262 on direction To 
+Marion Centre Interchange
+2021-06-29 18:10:56,987:INFO:fetched data for N30 on direction To 
+City
+2021-06-29 18:10:56,991:INFO:fetched data for N30 on direction To 
+West Lakes Interchange
+2021-06-29 18:10:57,479:INFO:fetched data for N4 on direction To 
+City
+2021-06-29 18:10:57,480:INFO:fetched data for N4 on direction To 
+Adelaide Showground
+2021-06-29 18:10:58,111:INFO:fetched data for N502 on direction To 
+City
+2021-06-29 18:10:58,115:INFO:fetched data for N502 on direction To 
+Salisbury Interchange
+2021-06-29 18:10:58,618:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: N541
+2021-06-29 18:10:58,618:INFO:fetched data for N541 on direction To 
+
+2021-06-29 18:10:58,620:INFO:fetched data for N541 on direction To 
+Fairview Park
+2021-06-29 18:10:58,964:INFO:fetched data for N7 on direction To 
+Woodlands Park
+2021-06-29 18:10:58,965:INFO:fetched data for N7 on direction To 
+Flinders
+2021-06-29 18:10:59,562:INFO:fetched data for N721 on direction To 
+City
+2021-06-29 18:10:59,569:INFO:fetched data for N721 on direction To 
+Seaford Centre
+2021-06-29 18:11:00,162:INFO:fetched data for N864 on direction To 
+City
+2021-06-29 18:11:00,167:INFO:fetched data for N864 on direction To 
+Mt Barker
+2021-06-29 18:11:00,662:INFO:fetched data for O1 on direction To 
+City
+2021-06-29 18:11:00,664:INFO:fetched data for O1 on direction To 
+Osborne
+2021-06-29 18:11:01,162:INFO:fetched data for SA2X on direction To 
+City
+2021-06-29 18:11:01,163:INFO:fetched data for SA2X on direction To 
+Salisbury
+2021-06-29 18:11:01,590:INFO:fetched data for T228 on direction To 
+City
+2021-06-29 18:11:01,592:INFO:fetched data for T228 on direction To 
+Smithfield Interchange
+2021-06-29 18:11:02,191:INFO:fetched data for T721 on direction To 
+City
+2021-06-29 18:11:02,193:INFO:fetched data for T721 on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:11:02,722:INFO:fetched data for T721X on direction To 
+City
+2021-06-29 18:11:02,724:INFO:fetched data for T721X on direction To 
+Noarlunga Centre Interchange
+2021-06-29 18:11:03,577:INFO:fetched data for T722 on direction To 
+City
+2021-06-29 18:11:03,580:INFO:fetched data for T722 on direction To 
+Seaford Centre
+2021-06-29 18:11:04,546:INFO:fetched data for T840 on direction To 
+City
+2021-06-29 18:11:04,548:INFO:fetched data for T840 on direction To 
+Mt Barker
+2021-06-29 18:11:04,964:INFO:fetched data for T842 on direction To 
+City
+2021-06-29 18:11:04,968:INFO:fetched data for T842 on direction To 
+Nairne
+2021-06-29 18:11:05,507:INFO:fetched data for T843 on direction To 
+City
+2021-06-29 18:11:05,510:INFO:fetched data for T843 on direction To 
+Mt Barker
+2021-06-29 18:11:06,110:INFO:fetched data for T863 on direction To 
+City
+2021-06-29 18:11:06,112:INFO:fetched data for T863 on direction To 
+Aldgate
+2021-06-29 18:11:06,537:INFO:fetched data for W90 on direction To 
+Paradise Interchange
+2021-06-29 18:11:06,545:INFO:fetched data for W90 on direction To 
+Marion Centre Interchange
+2021-06-29 18:11:07,014:INFO:fetched data for W90M on direction To 
+Marden
+2021-06-29 18:11:07,015:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: W90M
+2021-06-29 18:11:07,016:INFO:fetched data for W90M on direction To 
+
+2021-06-29 18:11:07,531:INFO:fetched data for W91 on direction To 
+Marden
+2021-06-29 18:11:07,535:INFO:fetched data for W91 on direction To 
+St Marys
+2021-06-29 18:11:08,017:INFO:fetched data for W91C on direction To 
+City
+2021-06-29 18:11:08,019:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: W91C
+2021-06-29 18:11:08,019:INFO:fetched data for W91C on direction To 
+
+2021-06-29 18:11:08,534:INFO:fetched data for X1 on direction To 
+City
+2021-06-29 18:11:08,536:INFO:fetched data for X1 on direction To 
+Glanville
+2021-06-29 18:11:09,024:INFO:fetched data for X30 on direction To 
+West Lakes Centre Interchange
+2021-06-29 18:11:09,030:INFO:fetched data for X30 on direction To 
+Paradise Interchange
+2021-06-29 18:11:09,466:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: X30C
+2021-06-29 18:11:09,466:INFO:fetched data for X30C on direction To 
+
+2021-06-29 18:11:09,469:INFO:fetched data for X30C on direction To 
+City
+2021-06-29 18:11:10,125:INFO:there was an error'NoneType' object has no attribute 'get' while fetching: X30S
+2021-06-29 18:11:10,125:INFO:fetched data for X30S on direction To 
+
+2021-06-29 18:11:10,129:INFO:fetched data for X30S on direction To 
+Newton
+2021-06-29 18:11:10,306:INFO:Total running time: 0.0:4.0:38.495317763.

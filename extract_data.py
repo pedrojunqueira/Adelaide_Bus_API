@@ -53,11 +53,11 @@ def extract_data(data):
 
 frame = pd.DataFrame()
 
-for i in range(20):
+for i in range(3):
     print(f"extracting data: {datetime.now().strftime('%Y-%m-%d %X')}")
     r = requests.get(url)
     data = r.json()
-    time.sleep(60)
+    time.sleep(3)
     # with open(f'{stop_id}_sample.json', 'r') as fp:
     #     data = json.load(fp)
     try:        
